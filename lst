@@ -1049,8 +1049,6 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/5194
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/21240
 #EXTINF:-1 tvg-id="premiere.8.br" tvg-name="PREMIERE 8 SD" tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",PREMIERE 8 SD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/25587
-#EXTINF:-1 tvg-id="" tvg-name="PFC INTERNACIONAL HD" tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",PFC INTERNACIONAL HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/167988
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD H265" tvg-logo="https://static.b2pteam.com/logos/esportesppv/combate.png" group-title="ESPORTES (PPV)",COMBATE FHD H265
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/59863
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD H265 ²" tvg-logo="https://static.b2pteam.com/logos/esportesppv/combate.png" group-title="ESPORTES (PPV)",COMBATE FHD H265 ²
@@ -1165,6 +1163,8 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/205698
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/205700
 #EXTINF:-1 tvg-id="ElevenSports.br" tvg-name="ELEVEN SPORTS 10 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/eleven.png" group-title="ESPORTES (PPV)",ELEVEN SPORTS 10 HD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/205699
+#EXTINF:-1 tvg-id="" tvg-name="FURACAO LIVE HD" tvg-logo="" group-title="ESPORTES (PPV)",FURACAO LIVE HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/207716
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD H265" tvg-logo="http://static.bldn.vip/logos/telecine/tcaction.png" group-title="TELECINE",TELECINE ACTION FHD H265
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/59815
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD H265 ²" tvg-logo="http://static.bldn.vip/logos/telecine/tcaction.png" group-title="TELECINE",TELECINE ACTION FHD H265 ²
@@ -3285,7 +3285,7 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/207196
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207197
 #EXTINF:-1 tvg-id="eurosport.2.pt" tvg-name="PT: EUROSPORT 2" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: EUROSPORT 2
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207198
-#EXTINF:-1 tvg-id="" tvg-name="PT: FASHION TV" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: FASHION TV
+#EXTINF:-1 tvg-id="fashion.gb" tvg-name="PT: FASHION TV" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: FASHION TV
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207199
 #EXTINF:-1 tvg-id="" tvg-name="PT: FATIMA TV" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: FATIMA TV
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207200
@@ -3583,201 +3583,201 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/206527
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206528
 #EXTINF:-1 tvg-id="disney.junior.usa.east.us" tvg-name="USA: DISNEY JUNIOR" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: DISNEY JUNIOR
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206529
-#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="USA: DISNEY XD" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: DISNEY XD
+#EXTINF:-1 tvg-id="disney.xd.usa.eastern.us" tvg-name="USA: DISNEY XD" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: DISNEY XD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206530
-#EXTINF:-1 tvg-id="doityourselfnetwork.us" tvg-name="USA: DIY NETWORK" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: DIY NETWORK
+#EXTINF:-1 tvg-id="do.it.yourself.network.us" tvg-name="USA: DIY NETWORK" tvg-logo="http://static.bldn.vip/logos/usa/DIY%20NETWORK.png" group-title="ESTADOS UNIDOS",USA: DIY NETWORK
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206531
-#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="USA: E!" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: E!
+#EXTINF:-1 tvg-id="e.entertainment.usa.east.us" tvg-name="USA: E!" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: E!
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206532
-#EXTINF:-1 tvg-id="epix.us" tvg-name="USA: EPIX" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: EPIX
+#EXTINF:-1 tvg-id="epix.east.us" tvg-name="USA: EPIX" tvg-logo="http://static.bldn.vip/logos/usa/EPIX%20DRIVE%20IN.png" group-title="ESTADOS UNIDOS",USA: EPIX
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206533
-#EXTINF:-1 tvg-id="epix2.us" tvg-name="USA: EPIX 2" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: EPIX 2
+#EXTINF:-1 tvg-id="epix.east.us" tvg-name="USA: EPIX 2" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: EPIX 2
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206534
-#EXTINF:-1 tvg-id="epixhits.us" tvg-name="USA: EPIX HITS" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: EPIX HITS
+#EXTINF:-1 tvg-id="epix.hits.us" tvg-name="USA: EPIX HITS" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: EPIX HITS
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206535
 #EXTINF:-1 tvg-id="espn.us" tvg-name="USA: ESPN" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: ESPN
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206536
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="USA: ESPN2" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: ESPN2
+#EXTINF:-1 tvg-id="espn.2.gb" tvg-name="USA: ESPN2" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: ESPN2
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206537
-#EXTINF:-1 tvg-id="espnnews.us" tvg-name="USA: ESPNEWS" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: ESPNEWS
+#EXTINF:-1 tvg-id="espn.news.us" tvg-name="USA: ESPNEWS" tvg-logo="http://static.bldn.vip/logos/usa/ESPN%20NEWS.png" group-title="ESTADOS UNIDOS",USA: ESPNEWS
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206538
-#EXTINF:-1 tvg-id="espnu.us" tvg-name="USA: ESPNU" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: ESPNU
+#EXTINF:-1 tvg-id="espnu.on.demand.us" tvg-name="USA: ESPNU" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: ESPNU
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206539
 #EXTINF:-1 tvg-id="fm.us" tvg-name="USA: FM" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: FM
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206540
-#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="USA: FOOD NETWORK" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: FOOD NETWORK
+#EXTINF:-1 tvg-id="food.network.usa.eastern.us" tvg-name="USA: FOOD NETWORK" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: FOOD NETWORK
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206541
-#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="USA: FOX BUSINESS NETWORK" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: FOX BUSINESS NETWORK
+#EXTINF:-1 tvg-id="fox.business.us" tvg-name="USA: FOX BUSINESS NETWORK" tvg-logo="http://static.bldn.vip/logos/usa/FOX%20BUSINESS.png" group-title="ESTADOS UNIDOS",USA: FOX BUSINESS NETWORK
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206542
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="USA: FOX NEWS CHANNEL" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: FOX NEWS CHANNEL
+#EXTINF:-1 tvg-id="fox.news.us" tvg-name="USA: FOX NEWS CHANNEL" tvg-logo="http://static.bldn.vip/logos/usa/FOX%20NEWS.png" group-title="ESTADOS UNIDOS",USA: FOX NEWS CHANNEL
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206543
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="USA: FOX SPORTS 1" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: FOX SPORTS 1
+#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="USA: FOX SPORTS 1" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: FOX SPORTS 1
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206544
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="USA: FOX SPORTS 2" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: FOX SPORTS 2
+#EXTINF:-1 tvg-id="fox.sports.2.us" tvg-name="USA: FOX SPORTS 2" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: FOX SPORTS 2
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206545
-#EXTINF:-1 tvg-id="freeform.us" tvg-name="USA: FREEFORM" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: FREEFORM
+#EXTINF:-1 tvg-id="freeform.east.us" tvg-name="USA: FREEFORM" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: FREEFORM
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206546
-#EXTINF:-1 tvg-id="fusetv.us" tvg-name="USA: FUSE" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: FUSE
+#EXTINF:-1 tvg-id="fuse.eastern.us" tvg-name="USA: FUSE" tvg-logo="http://static.bldn.vip/logos/usa/FUSE.png" group-title="ESTADOS UNIDOS",USA: FUSE
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206547
-#EXTINF:-1 tvg-id="fx.us" tvg-name="USA: FX" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: FX
+#EXTINF:-1 tvg-id="fx.movie.us" tvg-name="USA: FX" tvg-logo="http://static.bldn.vip/logos/usa/FXX.png" group-title="ESTADOS UNIDOS",USA: FX
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206548
-#EXTINF:-1 tvg-id="fxmoviechannel.us" tvg-name="USA: FX MOVIE CHANNEL" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: FX MOVIE CHANNEL
+#EXTINF:-1 tvg-id="fx.movie.us" tvg-name="USA: FX MOVIE CHANNEL" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: FX MOVIE CHANNEL
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206549
 #EXTINF:-1 tvg-id="fxm.mx.mx" tvg-name="USA: FXM" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: FXM
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206550
-#EXTINF:-1 tvg-id="fxx.us" tvg-name="USA: FXX" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: FXX
+#EXTINF:-1 tvg-id="fxx.usa.eastern.us" tvg-name="USA: FXX" tvg-logo="http://static.bldn.vip/logos/usa/FXX.png" group-title="ESTADOS UNIDOS",USA: FXX
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206551
-#EXTINF:-1 tvg-id="fyi.us" tvg-name="USA: FYI" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: FYI
+#EXTINF:-1 tvg-id="fyi.usa.eastern.us" tvg-name="USA: FYI" tvg-logo="http://static.bldn.vip/logos/usa/FYI.png" group-title="ESTADOS UNIDOS",USA: FYI
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206552
-#EXTINF:-1 tvg-id="galavision.us" tvg-name="USA: GALAVISION" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: GALAVISION
+#EXTINF:-1 tvg-id="galavision.eastern.us" tvg-name="USA: GALAVISION" tvg-logo="http://static.bldn.vip/logos/usa/GALAVISION.png" group-title="ESTADOS UNIDOS",USA: GALAVISION
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206553
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="USA: GOLF CHANNEL" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: GOLF CHANNEL
+#EXTINF:-1 tvg-id="golf.usa.us" tvg-name="USA: GOLF CHANNEL" tvg-logo="http://static.bldn.vip/logos/usa/GOLF%20CHANNEL.png" group-title="ESTADOS UNIDOS",USA: GOLF CHANNEL
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206554
-#EXTINF:-1 tvg-id="greatamericancountry.us" tvg-name="USA: GREAT AMERICAN COUNTRY" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: GREAT AMERICAN COUNTRY
+#EXTINF:-1 tvg-id="gac.great.american.country.us" tvg-name="USA: GREAT AMERICAN COUNTRY" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: GREAT AMERICAN COUNTRY
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206555
 #EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="USA: GSN" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: GSN
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206556
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="USA: HALLMARK CHANNEL" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HALLMARK CHANNEL
+#EXTINF:-1 tvg-id="hallmark.eastern.us" tvg-name="USA: HALLMARK CHANNEL" tvg-logo="http://static.bldn.vip/logos/usa/Hallmark%20Channel.png" group-title="ESTADOS UNIDOS",USA: HALLMARK CHANNEL
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206557
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="USA: HBO (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO (EAST)
+#EXTINF:-1 tvg-id="hbo.pacific.us" tvg-name="USA: HBO (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO (EAST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206558
-#EXTINF:-1 tvg-id="hbowest.us" tvg-name="USA: HBO (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO (WEST)
+#EXTINF:-1 tvg-id="hbo.pacific.us" tvg-name="USA: HBO (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO (WEST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206559
-#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="USA: HBO COMEDY (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO COMEDY (EAST)
+#EXTINF:-1 tvg-id="hbo.comedy.east.us" tvg-name="USA: HBO COMEDY (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO COMEDY (EAST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206560
-#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="USA: HBO COMEDY (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO COMEDY (WEST)
+#EXTINF:-1 tvg-id="hbo.comedy.pacific.us" tvg-name="USA: HBO COMEDY (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO COMEDY (WEST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206561
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="USA: HBO FAMILY (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO FAMILY (EAST)
+#EXTINF:-1 tvg-id="hbo.family.eastern.us" tvg-name="USA: HBO FAMILY (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO FAMILY (EAST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206562
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="USA: HBO FAMILY (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO FAMILY (WEST)
+#EXTINF:-1 tvg-id="hbo.family.pacific.us" tvg-name="USA: HBO FAMILY (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO FAMILY (WEST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206563
-#EXTINF:-1 tvg-id="hbolatino.us" tvg-name="USA: HBO LATINO (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO LATINO (EAST)
+#EXTINF:-1 tvg-id="hbo.latino.eastern.us" tvg-name="USA: HBO LATINO (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO LATINO (EAST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206564
-#EXTINF:-1 tvg-id="hbolatino.us" tvg-name="USA: HBO LATINO (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO LATINO (WEST)
+#EXTINF:-1 tvg-id="hbo.latino.pacific.us" tvg-name="USA: HBO LATINO (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO LATINO (WEST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206565
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="USA: HBO SIGNATURE (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO SIGNATURE (EAST)
+#EXTINF:-1 tvg-id="hbo.signature.eastern.us" tvg-name="USA: HBO SIGNATURE (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO SIGNATURE (EAST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206566
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="USA: HBO SIGNATURE (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO SIGNATURE (WEST)
+#EXTINF:-1 tvg-id="hbo.signature.pacific.us" tvg-name="USA: HBO SIGNATURE (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO SIGNATURE (WEST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206567
-#EXTINF:-1 tvg-id="hbozone.us" tvg-name="USA: HBO ZONE (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO ZONE (EAST)
+#EXTINF:-1 tvg-id="hbo.zone.east.us" tvg-name="USA: HBO ZONE (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO ZONE (EAST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206568
-#EXTINF:-1 tvg-id="hbozone.us" tvg-name="USA: HBO ZONE (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO ZONE (WEST)
+#EXTINF:-1 tvg-id="hbo.zone.pacific.us" tvg-name="USA: HBO ZONE (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO ZONE (WEST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206569
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="USA: HBO2 (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO2 (EAST)
+#EXTINF:-1 tvg-id="hbo.2.eastern.us" tvg-name="USA: HBO2 (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO2 (EAST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206570
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="USA: HBO2 (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO2 (WEST)
+#EXTINF:-1 tvg-id="hbo.2.eastern.us" tvg-name="USA: HBO2 (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HBO2 (WEST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206571
-#EXTINF:-1 tvg-id="hgtv.us" tvg-name="USA: HGTV" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HGTV
+#EXTINF:-1 tvg-id="hgtv.usa.eastern.us" tvg-name="USA: HGTV" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HGTV
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206572
-#EXTINF:-1 tvg-id="historychannel.us" tvg-name="USA: HISTORY CHANNEL" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HISTORY CHANNEL
+#EXTINF:-1 tvg-id="history.east.us" tvg-name="USA: HISTORY CHANNEL" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HISTORY CHANNEL
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206573
 #EXTINF:-1 tvg-id="hln.us" tvg-name="USA: HLN" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HLN
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206574
-#EXTINF:-1 tvg-id="homeshoppingnetwork.us" tvg-name="USA: HOME SHOPPING NETWORK" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HOME SHOPPING NETWORK
+#EXTINF:-1 tvg-id="hsn.home.shopping.network.us" tvg-name="USA: HOME SHOPPING NETWORK" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: HOME SHOPPING NETWORK
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206575
-#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-name="USA: IFC" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: IFC
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="USA: IFC" tvg-logo="http://static.bldn.vip/logos/usa/IFC.png" group-title="ESTADOS UNIDOS",USA: IFC
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206576
-#EXTINF:-1 tvg-id="indieplex.us" tvg-name="USA: INDIEPLEX (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: INDIEPLEX (EAST)
+#EXTINF:-1 tvg-id="indieplex.eastern.us" tvg-name="USA: INDIEPLEX (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: INDIEPLEX (EAST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206577
-#EXTINF:-1 tvg-id="indieplex.us" tvg-name="USA: INDIEPLEX (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: INDIEPLEX (WEST)
+#EXTINF:-1 tvg-id="indieplex.eastern.us" tvg-name="USA: INDIEPLEX (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: INDIEPLEX (WEST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206578
-#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="USA: INVESTIGATION DISCOVERY" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-id="investigation.discovery.usa.eastern.us" tvg-name="USA: INVESTIGATION DISCOVERY" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: INVESTIGATION DISCOVERY
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206579
-#EXTINF:-1 tvg-id="justicecentral.us" tvg-name="USA: JUSTICE CENTRAL" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: JUSTICE CENTRAL
+#EXTINF:-1 tvg-id="justice.central.us" tvg-name="USA: JUSTICE CENTRAL" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: JUSTICE CENTRAL
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206580
-#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="USA: LIFETIME" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: LIFETIME
+#EXTINF:-1 tvg-id="lifetime.movies.east.us" tvg-name="USA: LIFETIME" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: LIFETIME
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206581
-#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="USA: LIFETIME MOVIE NETWORK" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: LIFETIME MOVIE NETWORK
+#EXTINF:-1 tvg-id="lifetime.network.eastern.us" tvg-name="USA: LIFETIME MOVIE NETWORK" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: LIFETIME MOVIE NETWORK
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206582
-#EXTINF:-1 tvg-id="logo.us" tvg-name="USA: LOGO" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: LOGO
+#EXTINF:-1 tvg-id="logo.east.us" tvg-name="USA: LOGO" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: LOGO
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206583
-#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="USA: MLB NETWORK" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: MLB NETWORK
+#EXTINF:-1 tvg-id="mlb.network.us" tvg-name="USA: MLB NETWORK" tvg-logo="http://static.bldn.vip/logos/usa/MLB%20NETWORK.png" group-title="ESTADOS UNIDOS",USA: MLB NETWORK
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206584
-#EXTINF:-1 tvg-id="moremax.us" tvg-name="USA: MOREMAX (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: MOREMAX (EAST)
+#EXTINF:-1 tvg-id="moremax.eastern.us" tvg-name="USA: MOREMAX (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: MOREMAX (EAST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206585
-#EXTINF:-1 tvg-id="moremax.us" tvg-name="USA: MOREMAX (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: MOREMAX (WEST)
+#EXTINF:-1 tvg-id="moremax.pacific.us" tvg-name="USA: MOREMAX (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: MOREMAX (WEST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206586
-#EXTINF:-1 tvg-id="motortrend.us" tvg-name="USA: MOTORTREND" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: MOTORTREND
+#EXTINF:-1 tvg-id="motor.trend.us" tvg-name="USA: MOTORTREND" tvg-logo="http://static.bldn.vip/logos/usa/MOTOR%20TREND.png" group-title="ESTADOS UNIDOS",USA: MOTORTREND
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206587
 #EXTINF:-1 tvg-id="moviemax.us" tvg-name="USA: MOVIEMAX" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: MOVIEMAX
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206588
-#EXTINF:-1 tvg-id="movieplex.us" tvg-name="USA: MOVIEPLEX (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: MOVIEPLEX (EAST)
+#EXTINF:-1 tvg-id="movieplex.eastern.us" tvg-name="USA: MOVIEPLEX (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: MOVIEPLEX (EAST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206589
-#EXTINF:-1 tvg-id="movieplex.us" tvg-name="USA: MOVIEPLEX (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: MOVIEPLEX (WEST)
+#EXTINF:-1 tvg-id="movieplex.eastern.us" tvg-name="USA: MOVIEPLEX (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: MOVIEPLEX (WEST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206590
-#EXTINF:-1 tvg-id="msnbc.us" tvg-name="USA: MSNBC" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: MSNBC
+#EXTINF:-1 tvg-id="msnbc.usa.us" tvg-name="USA: MSNBC" tvg-logo="http://static.bldn.vip/logos/usa/MSNBC.png" group-title="ESTADOS UNIDOS",USA: MSNBC
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206591
-#EXTINF:-1 tvg-id="mtv.us" tvg-name="USA: MTV" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: MTV
+#EXTINF:-1 tvg-id="mtv.usa.eastern.us" tvg-name="USA: MTV" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: MTV
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206592
-#EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="USA: MTV CLASSIC" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: MTV CLASSIC
+#EXTINF:-1 tvg-id="mtv.classic.east.us" tvg-name="USA: MTV CLASSIC" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: MTV CLASSIC
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206593
-#EXTINF:-1 tvg-id="mtv2.us" tvg-name="USA: MTV2" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: MTV2
+#EXTINF:-1 tvg-id="mtv.2.east.us" tvg-name="USA: MTV2" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: MTV2
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206594
 #EXTINF:-1 tvg-id="" tvg-name="USA: MYNETWORK TV" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: MYNETWORK TV
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206595
 #EXTINF:-1 tvg-id="nasachannel.us" tvg-name="USA: NASA" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NASA
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206596
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="USA: NAT GEO WILD" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NAT GEO WILD
+#EXTINF:-1 tvg-id="natgeowild.gb" tvg-name="USA: NAT GEO WILD" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NAT GEO WILD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206597
-#EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA: NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NATIONAL GEOGRAPHIC CHANNEL
+#EXTINF:-1 tvg-id="national.geographic.eastern.us" tvg-name="USA: NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NATIONAL GEOGRAPHIC CHANNEL
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206598
-#EXTINF:-1 tvg-id="nbatv.us" tvg-name="USA: NBA TV" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NBA TV
+#EXTINF:-1 tvg-id="nba.usa.us" tvg-name="USA: NBA TV" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NBA TV
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206599
-#EXTINF:-1 tvg-id="nbcsportschicago.us" tvg-name="USA: NBC SPORTS CHICAGO" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NBC SPORTS CHICAGO
+#EXTINF:-1 tvg-id="nbc.sports.chicago.us" tvg-name="USA: NBC SPORTS CHICAGO" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NBC SPORTS CHICAGO
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206600
-#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="USA: NBC SPORTS NETWORK" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NBC SPORTS NETWORK
+#EXTINF:-1 tvg-id="nbc.sports.network.us" tvg-name="USA: NBC SPORTS NETWORK" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NBC SPORTS NETWORK
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206601
-#EXTINF:-1 tvg-id="nbcuniverso.us" tvg-name="USA: NBC UNIVERSO" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NBC UNIVERSO
+#EXTINF:-1 tvg-id="nbc.universo.eastern.us" tvg-name="USA: NBC UNIVERSO" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NBC UNIVERSO
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206602
-#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="USA: NHL NETWORK" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NHL NETWORK
+#EXTINF:-1 tvg-id="nhl.network.usa.us" tvg-name="USA: NHL NETWORK" tvg-logo="http://static.bldn.vip/logos/usa/NHL%20NETWORK.png" group-title="ESTADOS UNIDOS",USA: NHL NETWORK
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206603
-#EXTINF:-1 tvg-id="nickjr.us" tvg-name="USA: NICK JR." tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NICK JR.
+#EXTINF:-1 tvg-id="nick.jr.us" tvg-name="USA: NICK JR." tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NICK JR.
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206604
-#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="USA: NICKELODEON (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NICKELODEON (EAST)
+#EXTINF:-1 tvg-id="nickelodeon.usa.east.us" tvg-name="USA: NICKELODEON (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NICKELODEON (EAST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206605
-#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="USA: NICKTOONS" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NICKTOONS
+#EXTINF:-1 tvg-id="nicktoons.east.us" tvg-name="USA: NICKTOONS" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: NICKTOONS
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206606
-#EXTINF:-1 tvg-id="olympicchannel.us" tvg-name="USA: OLYMPIC CHANNEL" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: OLYMPIC CHANNEL
+#EXTINF:-1 tvg-id="olympic.us" tvg-name="USA: OLYMPIC CHANNEL" tvg-logo="http://static.bldn.vip/logos/usa/OLYMPIC%20CHANNEL.png" group-title="ESTADOS UNIDOS",USA: OLYMPIC CHANNEL
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206607
-#EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="USA: ONE AMERICAN NEWS NETWORK" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: ONE AMERICAN NEWS NETWORK
+#EXTINF:-1 tvg-id="one.america.news.network.us" tvg-name="USA: ONE AMERICAN NEWS NETWORK" tvg-logo="http://static.bldn.vip/logos/usa/ONE%20AMERICAN.png" group-title="ESTADOS UNIDOS",USA: ONE AMERICAN NEWS NETWORK
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206608
-#EXTINF:-1 tvg-id="outermax.us" tvg-name="USA: OUTERMAX" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: OUTERMAX
+#EXTINF:-1 tvg-id="outermax.eastern.us" tvg-name="USA: OUTERMAX" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: OUTERMAX
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206609
-#EXTINF:-1 tvg-id="ovation.us" tvg-name="USA: OVATION" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: OVATION
+#EXTINF:-1 tvg-id="ovation.us" tvg-name="USA: OVATION" tvg-logo="http://static.bldn.vip/logos/usa/OVATION.png" group-title="ESTADOS UNIDOS",USA: OVATION
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206610
-#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="USA: OWN" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: OWN
+#EXTINF:-1 tvg-id="oprah.winfrey.network.usa.eastern.us" tvg-name="USA: OWN" tvg-logo="http://static.bldn.vip/logos/usa/OWN.png" group-title="ESTADOS UNIDOS",USA: OWN
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206611
-#EXTINF:-1 tvg-id="oxygen.us" tvg-name="USA: OXYGEN" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: OXYGEN
+#EXTINF:-1 tvg-id="oxygen.eastern.us" tvg-name="USA: OXYGEN" tvg-logo="http://static.bldn.vip/logos/usa/OXYGEN.png" group-title="ESTADOS UNIDOS",USA: OXYGEN
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206612
-#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="USA: PARAMOUNT TV" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: PARAMOUNT TV
+#EXTINF:-1 tvg-id="paramount.network.usa.eastern.us" tvg-name="USA: PARAMOUNT TV" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: PARAMOUNT TV
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206613
-#EXTINF:-1 tvg-id="poptv.us" tvg-name="USA: POP" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: POP
+#EXTINF:-1 tvg-id="pop.east.us" tvg-name="USA: POP" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: POP
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206614
-#EXTINF:-1 tvg-id="qvc.us" tvg-name="USA: QVC" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: QVC
+#EXTINF:-1 tvg-id="qvc.us" tvg-name="USA: QVC" tvg-logo="http://static.bldn.vip/logos/usa/QVC.png" group-title="ESTADOS UNIDOS",USA: QVC
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206615
 #EXTINF:-1 tvg-id="qvc2.us" tvg-name="USA: QVC2" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: QVC2
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206616
-#EXTINF:-1 tvg-id="reelzchannel.us" tvg-name="USA: REELZCHANNEL" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: REELZCHANNEL
+#EXTINF:-1 tvg-id="reelzchannel.us" tvg-name="USA: REELZCHANNEL" tvg-logo="http://static.bldn.vip/logos/usa/REELZ.png" group-title="ESTADOS UNIDOS",USA: REELZCHANNEL
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206617
-#EXTINF:-1 tvg-id="retroplex.us" tvg-name="USA: RETROPLEX (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: RETROPLEX (EAST)
+#EXTINF:-1 tvg-id="retroplex.eastern.us" tvg-name="USA: RETROPLEX (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: RETROPLEX (EAST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206618
 #EXTINF:-1 tvg-id="retroplex.us" tvg-name="USA: RETROPLEX (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: RETROPLEX (WEST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206619
-#EXTINF:-1 tvg-id="revolt.us" tvg-name="USA: REVOLT" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: REVOLT
+#EXTINF:-1 tvg-id="revolt.us" tvg-name="USA: REVOLT" tvg-logo="http://static.bldn.vip/logos/usa/REVOLT.png" group-title="ESTADOS UNIDOS",USA: REVOLT
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206620
-#EXTINF:-1 tvg-id="rfdtv.us" tvg-name="USA: RFD-TV" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: RFD-TV
+#EXTINF:-1 tvg-id="rfd.us" tvg-name="USA: RFD-TV" tvg-logo="http://static.bldn.vip/logos/usa/RFD-TV.png" group-title="ESTADOS UNIDOS",USA: RFD-TV
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206621
-#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="USA: SEC NETWORK" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: SEC NETWORK
+#EXTINF:-1 tvg-id="sec.network.us" tvg-name="USA: SEC NETWORK" tvg-logo="http://static.bldn.vip/logos/usa/SEC%20NETWORK.png" group-title="ESTADOS UNIDOS",USA: SEC NETWORK
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206622
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="USA: SHOWTIME (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: SHOWTIME (EAST)
+#EXTINF:-1 tvg-id="showtime.eastern.us" tvg-name="USA: SHOWTIME (EAST)" tvg-logo="http://static.bldn.vip/logos/usa/SHOWTIME.png" group-title="ESTADOS UNIDOS",USA: SHOWTIME (EAST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206623
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="USA: SHOWTIME (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: SHOWTIME (WEST)
+#EXTINF:-1 tvg-id="showtime.co" tvg-name="USA: SHOWTIME (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: SHOWTIME (WEST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206624
-#EXTINF:-1 tvg-id="showtime2.us" tvg-name="USA: SHOWTIME 2 (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: SHOWTIME 2 (EAST)
+#EXTINF:-1 tvg-id="showtime.2.co" tvg-name="USA: SHOWTIME 2 (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: SHOWTIME 2 (EAST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206625
-#EXTINF:-1 tvg-id="showtime2.us" tvg-name="USA: SHOWTIME 2 (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: SHOWTIME 2 (WEST)
+#EXTINF:-1 tvg-id="showtime.2.pacific.us" tvg-name="USA: SHOWTIME 2 (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: SHOWTIME 2 (WEST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206626
-#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="USA: SHOWTIME EXTREME (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: SHOWTIME EXTREME (EAST)
+#EXTINF:-1 tvg-id="showtime.extreme.eastern.us" tvg-name="USA: SHOWTIME EXTREME (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: SHOWTIME EXTREME (EAST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206627
 #EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="USA: SHOWTIME EXTREME (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: SHOWTIME EXTREME (WEST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206628
@@ -3797,9 +3797,9 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/206634
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206635
 #EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="USA: SHOWTIME WOMEN (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: SHOWTIME WOMEN (WEST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206636
-#EXTINF:-1 tvg-id="shoxbet.us" tvg-name="USA: SHO×BET (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: SHO×BET (EAST)
+#EXTINF:-1 tvg-id="shoxbet.eastern.us" tvg-name="USA: SHO×BET (EAST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: SHO×BET (EAST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206637
-#EXTINF:-1 tvg-id="shoxbet.us" tvg-name="USA: SHO×BET (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: SHO×BET (WEST)
+#EXTINF:-1 tvg-id="shoxbet.pacific.us" tvg-name="USA: SHO×BET (WEST)" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: SHO×BET (WEST)
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206638
 #EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="USA: SMITHSONIAN CHANNEL" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: SMITHSONIAN CHANNEL
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206639
@@ -4047,531 +4047,301 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/206250
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206251
 #EXTINF:-1 tvg-id="" tvg-name="NHL: WINNIPEG JETS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: WINNIPEG JETS
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206252
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XXX: PLAYBOY FHD H265*" tvg-logo="http://static.bldn.vip/logos/adultos/playboy.png" group-title="XXX: ADULTOS",XXX: PLAYBOY FHD H265*
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/59825
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XXX: PLAYBOY TV FHD" tvg-logo="http://static.bldn.vip/logos/adultos/playboy.png" group-title="XXX: ADULTOS",XXX: PLAYBOY TV FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/22614
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XXX: PLAYBOY TV HD" tvg-logo="http://static.bldn.vip/logos/adultos/playboy.png" group-title="XXX: ADULTOS",XXX: PLAYBOY TV HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/4977
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XXX: PLAYBOY TV SD" tvg-logo="http://static.bldn.vip/logos/adultos/playboy.png" group-title="XXX: ADULTOS",XXX: PLAYBOY TV SD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/4978
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XXX: PLAYBOY TV SD ²" tvg-logo="http://static.bldn.vip/logos/adultos/playboy.png" group-title="XXX: ADULTOS",XXX: PLAYBOY TV SD ²
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/25719
-#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="XXX: SEXY HOT FHD H265*" tvg-logo="http://static.bldn.vip/logos/adultos/sexyhot.png" group-title="XXX: ADULTOS",XXX: SEXY HOT FHD H265*
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61115
-#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="XXX: SEXY HOT SD" tvg-logo="http://static.bldn.vip/logos/adultos/sexyhot.png" group-title="XXX: ADULTOS",XXX: SEXY HOT SD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/4975
-#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="XXX: SEXY HOT SD ²" tvg-logo="http://static.bldn.vip/logos/adultos/sexyhot.png" group-title="XXX: ADULTOS",XXX: SEXY HOT SD ²
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/41753
-#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="XXX: SEXTREME FHD H265*" tvg-logo="http://static.bldn.vip/logos/adultos/sextreme.png" group-title="XXX: ADULTOS",XXX: SEXTREME FHD H265*
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61114
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="XXX: SEXTREME SD" tvg-logo="http://static.bldn.vip/logos/adultos/sextreme.png" group-title="XXX: ADULTOS",XXX: SEXTREME SD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/4976
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="XXX: SEXTREME SD ²" tvg-logo="http://static.bldn.vip/logos/adultos/sextreme.png" group-title="XXX: ADULTOS",XXX: SEXTREME SD ²
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/41754
-#EXTINF:-1 tvg-id="Venus.br" tvg-name="XXX: VÊNUS FHD H265*" tvg-logo="http://static.bldn.vip/logos/adultos/venus.png" group-title="XXX: ADULTOS",XXX: VÊNUS FHD H265*
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61111
-#EXTINF:-1 tvg-id="Venus.br" tvg-name="XXX: VENUS SD" tvg-logo="http://static.bldn.vip/logos/adultos/venus.png" group-title="XXX: ADULTOS",XXX: VENUS SD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/4974
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: A CAMPEA DO ANAL" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: A CAMPEA DO ANAL
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/164573
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: AGORA E HORA DAS PODEROSAS" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: AGORA E HORA DAS PODEROSAS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/164574
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: AMIGAS DA MINHA IRMA" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: AMIGAS DA MINHA IRMA
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/164575
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: ASSIM VC ME MATA" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: ASSIM VC ME MATA
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/164576
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: BABANDO DE TESÃO" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: BABANDO DE TESÃO
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/164577
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: BIG MACK" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: BIG MACK
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/164578
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: CLUBE PRIVE" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: CLUBE PRIVE
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/164579
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: DEPOIS DOS 40" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: DEPOIS DOS 40
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/164580
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: ESTRELAS EM BUSCA DO PRAZER" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: ESTRELAS EM BUSCA DO PRAZER
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/164581
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: FAZENDO SACANAGEM" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: FAZENDO SACANAGEM
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/164582
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT - ANAL HD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXY HOT - ANAL HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/64685
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT - ASIÁTICAS HD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXY HOT - ASIÁTICAS HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/64684
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT - BUNDUDAS HD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXY HOT - BUNDUDAS HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/64683
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT - COROAS HD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXY HOT - COROAS HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/64682
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT - GORDINHAS HD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXY HOT - GORDINHAS HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/64681
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT - ORAL HD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXY HOT - ORAL HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/64679
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT - RUIVAS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXY HOT - RUIVAS FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/64876
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT - RUIVAS HD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXY HOT - RUIVAS HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/64678
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT - TATUADAS HD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXY HOT - TATUADAS HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/64677
-#EXTINF:-1 tvg-id="" tvg-name="XXX: 69 TONS DE PICA FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: 69 TONS DE PICA FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61376
-#EXTINF:-1 tvg-id="" tvg-name="XXX: A CASA DAS BRASILEIRINHAS S01-05 HD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: A CASA DAS BRASILEIRINHAS S01-05 HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/62889
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AMIGA DA MINHA MULHER FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: AMIGA DA MINHA MULHER FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61375
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ASSÉDIO FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: ASSÉDIO FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61374
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BALADAS OU PEPECAS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: BALADAS OU PEPECAS FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/64676
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CARNAVAL 2019 FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: CARNAVAL 2019 FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61371
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CARNA FUNK 2019 FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: CARNA FUNK 2019 FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61372
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CAMINHOS DAS CHANAS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: CAMINHOS DAS CHANAS FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61373
-#EXTINF:-1 tvg-id="" tvg-name="XXX: COPA DO SEXO FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: COPA DO SEXO FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/64675
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DEPOIS DA ACADEMIA FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: DEPOIS DA ACADEMIA FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/64674
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ESCOLA DAS BRASILEIRINHAS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: ESCOLA DAS BRASILEIRINHAS FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61370
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FOTOGRAFO TARADO FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: FOTOGRAFO TARADO FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61369
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FUNK: ELA SÓ QUER VRAU FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: FUNK: ELA SÓ QUER VRAU FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61368
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HARÉM FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: HARÉM FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61367
-#EXTINF:-1 tvg-id="" tvg-name="XXX: INVOCAÇÃO DO PRAZER FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: INVOCAÇÃO DO PRAZER FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61364
-#EXTINF:-1 tvg-id="" tvg-name="XXX: INSACIÁVEIS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: INSACIÁVEIS FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61365
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ÍNDIAS SAFADAS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: ÍNDIAS SAFADAS FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61366
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MASSAGEM ERÓTICA FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: MASSAGEM ERÓTICA FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61363
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MINHA PRIMEIRA VEZ NA TELINHA 4 FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: MINHA PRIMEIRA VEZ NA TELINHA 4 FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61362
-#EXTINF:-1 tvg-id="" tvg-name="XXX: NA CAÇAPA FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: NA CAÇAPA FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/64673
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PAU GRANDE FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: PAU GRANDE FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61361
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PISCININHA AMOR FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: PISCININHA AMOR FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61360
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PLUGADAS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: PLUGADAS FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61359
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNO COM HISTÓRIA FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: PORNO COM HISTÓRIA FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/64672
-#EXTINF:-1 tvg-id="" tvg-name="XXX: POV PORNO FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: POV PORNO FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61358
-#EXTINF:-1 tvg-id="" tvg-name="XXX: QUERO SER ATRIZ PORNO FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: QUERO SER ATRIZ PORNO FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/64671
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ROTINA FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: ROTINA FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61357
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SHOW DE BUNDAS 9 FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SHOW DE BUNDAS 9 FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61355
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SHOW DE PEITOS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SHOW DE PEITOS FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/64669
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SONHOS ERÓTICOS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SONHOS ERÓTICOS FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/64668
-#EXTINF:-1 tvg-id="" tvg-name="XXX: TARAS E FETICHES FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: TARAS E FETICHES FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/64667
-#EXTINF:-1 tvg-id="" tvg-name="XXX: TÓKIO CREAM PUFFS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: TÓKIO CREAM PUFFS FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61354
-#EXTINF:-1 tvg-id="" tvg-name="XXX: TOMANDO EM DOSE DUPLA FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: TOMANDO EM DOSE DUPLA FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61353
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXO NA PISCINA FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXO NA PISCINA FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/64670
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXO NO BANHEIRO 2 FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXO NO BANHEIRO 2 FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61356
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VÁRIAS NOVINHAS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: VÁRIAS NOVINHAS FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/61352
-#EXTINF:-1 tvg-id="" tvg-name="XXX 02" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 02
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51493.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 03" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 03
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 04" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 04
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 05" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 05
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 06" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 06
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 07" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 07
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51498.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 08" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 08
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 09" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 09
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51500.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 10" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 10
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51516.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 11" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 11
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51501.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 12" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 12
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 13" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 13
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 14" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 14
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51504.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 15" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 15
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51517.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 16" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 16
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51518.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 17" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 17
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51519.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 18" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 18
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51520.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX19" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX19
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67362.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX20" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX20
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67363.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX21" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX21
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67364.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX22" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX22
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67365.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX23" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX23
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67366.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX24" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX24
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67367.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX25" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX25
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67368.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX26" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX26
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67369.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX27" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX27
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67370.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX28" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX28
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67371.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX29" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX29
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67372.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX30" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX30
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67373.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX31" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX31
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67374.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX32" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX32
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67375.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX33" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX33
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67376.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX34" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX34
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67377.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX35" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX35
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67378.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX36" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX36
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67379.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX37" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX37
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67380.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX38" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX38
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67381.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX39" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX39
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX40" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX40
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67383.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX41" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX41
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67384.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX42" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX42
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67385.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX43" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX43
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67386.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX44" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX44
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX45" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX45
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67388.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX46" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX46
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67389.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX47" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX47
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67390.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX48" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX48
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67391.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX49" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX49
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67392.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX50" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX50
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67393.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTOS: 51" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX ADULTOS: 51
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTOS: 52" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX ADULTOS: 52
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169673.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTOS: 53" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX ADULTOS: 53
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTOS: 54" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX ADULTOS: 54
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX55" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX55
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX56" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX56
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX57" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX57
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX58" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX58
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX59" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX59
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX60" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX60
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX61" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX61
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX62" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX62
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169683.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX63" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX63
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169684.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTOS: 64" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX ADULTOS: 64
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169685.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX65" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX65
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX66" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX66
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169687.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX67" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX67
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169688.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX68" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX68
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169689.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX69" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX69
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169690.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX70" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX70
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX71" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX71
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169693.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX72" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX72
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169694.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX73" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX73
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169695.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX74" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX74
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169696.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX75" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX75
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169697.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX76" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX76
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169698.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX77" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX77
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169699.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX78" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX78
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169700.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX79" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX79
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169701.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX80" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX80
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169702.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX81" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX81
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX82" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX82
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169704.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX83" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX83
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX84" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX84
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169706.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX85" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX85
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX86" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX86
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169708.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX87" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX87
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX88" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX88
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX89" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX89
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX90" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX90
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX91" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX91
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169713.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX92" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX92
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX93" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX93
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169715.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX94" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX94
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX95" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX95
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX96" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX96
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX97" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX97
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX98" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX98
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX99" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX99
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX100" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX100
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX101" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX101
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX102" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX102
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX103" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX103
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX104" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX104
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX105" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX105
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169727.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX106" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX106
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169728.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX107" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX107
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169729.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX108" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX108
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169730.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX109" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX109
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX110" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX110
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX111" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX111
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX112" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX112
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX113" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX113
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX114" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX114
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX115" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX115
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX116" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX116
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX117" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX117
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX118" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX118
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX119" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX119
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX120" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX120
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX121" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX121
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX122" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX122
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX123" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX123
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX124" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX124
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX125" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX125
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX126" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX126
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX127" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX127
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX128" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX128
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX129" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX129
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169751.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX130" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX130
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX131" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX131
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169753.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX132" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX132
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169754.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX133" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX133
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169755.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX134" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX134
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX135" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX135
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169757.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX136" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX136
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX137" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX137
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX138" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX138
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169760.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX139" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX139
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169761.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX140" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX140
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX141" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX141
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX142" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX142
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169764.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX143" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX143
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169765.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX144" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX144
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX145" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX145
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX146" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX146
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX147" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX147
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169769.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX148" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX148
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169770.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX149" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX149
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169771.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX150" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX150
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX151" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX151
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX152" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX152
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX153" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX153
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX154" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX154
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX155" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX155
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX156" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX156
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169778.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX157" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX157
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169779.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX158" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX158
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169780.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX159" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX159
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169781.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX160" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX160
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169782.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX161" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX161
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169783.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX162" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX162
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169784.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX163" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX163
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX164" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX164
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX165" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX165
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169787.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX166" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX166
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX167" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX167
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX168" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX168
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169790.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX169" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX169
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX170" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX170
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169792.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX171" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX171
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX172" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX172
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX173" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX173
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169796.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX174" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX174
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX175" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX175
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX176" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX176
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX177" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX177
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX178" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX178
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169807.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX179" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX179
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169808.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX180" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX180
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX181" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX181
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX182" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX182
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX183" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX183
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX184" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX184
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX185" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX185
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169814.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX186" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX186
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX187" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX187
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX188" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX188
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX189" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX189
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX190" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX190
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX191" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX191
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX192" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX192
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX193" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX193
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX194" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX194
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX195" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX195
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX196" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX196
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX197" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX197
-http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E01" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E01
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E02" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E02
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E03" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E03
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E04" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E04
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E05" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E05
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E06" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E06
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E07" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E07
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E08" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E08
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E09" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E09
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E10" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E10
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E11" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E11
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E12" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E12
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E13" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E13
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E14" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E14
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E15" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E15
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E16" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E16
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E17" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E17
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E18" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E18
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E19" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E19
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E20" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E20
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E21" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E21
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E22" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E22
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S01 E23" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S01 E23
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E01" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E01
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E02" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E02
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E03" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E03
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E04" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E04
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E05" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E05
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E06" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E06
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E07" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E07
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E08" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E08
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E09" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E09
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E10" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E10
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E11" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E11
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E12" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E12
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E13" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E13
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E14" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E14
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E15" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E15
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E16" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E16
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E17" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E17
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E18" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E18
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E19" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E19
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E20" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E20
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E21" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E21
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E22" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E22
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S02 E23" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S02 E23
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E01" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E01
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E02" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E02
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E03" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E03
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E04" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E04
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E05" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E05
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E06" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E06
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E07" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E07
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E08" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E08
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E09" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E09
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E10" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E10
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E11" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E11
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E12" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E12
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E13" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E13
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E14" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E14
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E15" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E15
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E16" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E16
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E17" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E17
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E18" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E18
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E19" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E19
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E20" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E20
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E21" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E21
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E22" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E22
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S03 E23" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S03 E23
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E01" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E01
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E02" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E02
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E03" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E03
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E04" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E04
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E05" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E05
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E06" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E06
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E07" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E07
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E08" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E08
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E09" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E09
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E10" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E10
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E11" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E11
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E12" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E12
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E13" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E13
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E14" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E14
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E15" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E15
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E16" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E16
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E17" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E17
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E18" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E18
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E19" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E19
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E20" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E20
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E21" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E21
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E22" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E22
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E23" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E23
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S04 E24" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S04 E24
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E01" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E01
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E02" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E02
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E03" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E03
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E04" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E04
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E05" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E05
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E06" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E06
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E07" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E07
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E08" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E08
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E09" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E09
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E10" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E10
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E11" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E11
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E12" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E12
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E13" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E13
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E14" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E14
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E15" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E15
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E16" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E16
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E17" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E17
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E18" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E18
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E19" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E19
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E20" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E20
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E21" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E21
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S05 E22" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S05 E22
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E01" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E01
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E02" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E02
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E03" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E03
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E04" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E04
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E05" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E05
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E06" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E06
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E07" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E07
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E08" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E08
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E09" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E09
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E10" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E10
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E11" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E11
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E12" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E12
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E13" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E13
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E14" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E14
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E15" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E15
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E16" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E16
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E17" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E17
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E18" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E18
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E19" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E19
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E20" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E20
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E21" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E21
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S06 E22" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S06 E22
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S07 E01" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S07 E01
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S07 E02" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S07 E02
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S07 E03" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S07 E03
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S07 E04" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S07 E04
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S07 E05" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S07 E05
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S07 E06" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S07 E06
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S07 E07" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S07 E07
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S07 E08" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S07 E08
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S07 E09" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S07 E09
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S07 E10" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S07 E10
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S07 E11" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S07 E11
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA S07 E12" tvg-logo="http://b2p.li:80/images/gdkkBruycNl9NlHFnxRuqVHfsvt_small.jpg" group-title="SERIE: O MENTALISTA",O MENTALISTA S07 E12
+http://cdnrede.com:80/series/murilopinheiro96/pinheirom02/64840.mp4
