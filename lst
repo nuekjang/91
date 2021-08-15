@@ -633,9 +633,9 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/195847
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/55448
 #EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP FHD H265 ²" tvg-logo="http://static.bldn.vip/logos/abertos/sbt.png" group-title="CANAIS ABERTOS",SBT SP FHD H265 ²
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/61116
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP FHD" tvg-logo="http://static.bldn.vip/logos/abertos/sbt.png" group-title="CANAIS ABERTOS",SBT SP FHD
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP FHD" tvg-logo="http://static.bldn.vip/logos/abertos/sbt.png" group-title="CANAIS ABERTOS",SBT SP FHD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/4971
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="http://static.bldn.vip/logos/abertos/sbt.png" group-title="CANAIS ABERTOS",SBT SP HD
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD" tvg-logo="http://static.bldn.vip/logos/abertos/sbt.png" group-title="CANAIS ABERTOS",SBT SP HD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/203015
 #EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD ²" tvg-logo="http://static.bldn.vip/logos/abertos/sbt.png" group-title="CANAIS ABERTOS",SBT SP HD ²
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/21085
@@ -961,24 +961,8 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/5013
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/21126
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://static.bldn.vip/logos/esportes/sportv3.png" group-title="ESPORTES",SPORTV 3 SD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/5014
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 FHD H265" tvg-logo="https://static.b2pteam.com/logos/esportes/sportv4.png" group-title="ESPORTES",SPORTV 4 FHD H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/210795
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 FHD H265 ²" tvg-logo="https://static.b2pteam.com/logos/esportes/sportv4.png" group-title="ESPORTES",SPORTV 4 FHD H265 ²
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/210796
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD ²" tvg-logo="http://static.bldn.vip/logos/esportes/sportv3.png" group-title="ESPORTES",SPORTV 3 SD ²
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/21125
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 FHD" tvg-logo="https://static.b2pteam.com/logos/esportes/sportv4.png" group-title="ESPORTES",SPORTV 4 FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/210793
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 FHD ²" tvg-logo="https://static.b2pteam.com/logos/esportes/sportv4.png" group-title="ESPORTES",SPORTV 4 FHD ²
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/210794
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 HD" tvg-logo="https://static.b2pteam.com/logos/esportes/sportv4.png" group-title="ESPORTES",SPORTV 4 HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/210791
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 HD ²" tvg-logo="https://static.b2pteam.com/logos/esportes/sportv4.png" group-title="ESPORTES",SPORTV 4 HD ²
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/210792
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 SD" tvg-logo="https://static.b2pteam.com/logos/esportes/sportv4.png" group-title="ESPORTES",SPORTV 4 SD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/210789
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 SD ²" tvg-logo="https://static.b2pteam.com/logos/esportes/sportv4.png" group-title="ESPORTES",SPORTV 4 SD ²
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/210790
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD H265" tvg-logo="http://static.bldn.vip/logos/esportes/bandsports.png" group-title="ESPORTES",BAND SPORTS FHD H265
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/59870
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD H265 ²" tvg-logo="http://static.bldn.vip/logos/esportes/bandsports.png" group-title="ESPORTES",BAND SPORTS FHD H265 ²
@@ -3201,17 +3185,17 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/67264
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/67265
 #EXTINF:-1 tvg-id="" tvg-name="24HS: CLIPES ZUMBA HD" tvg-logo="http://static.bldn.vip/logos/clipes24hs/clipeszumba.png" group-title="CLIPES 24HS PREMIUM",24HS: CLIPES ZUMBA HD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/67721
-#EXTINF:-1 tvg-id="1.plus.1.pt" tvg-name="PT: 1+1" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: 1+1
+#EXTINF:-1 tvg-id="1.plus.1.pt" tvg-name="PT: AL JAZEERA" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: AL JAZEERA
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207153
 #EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 KITCHEN" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: 24 KITCHEN
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207154
-#EXTINF:-1 tvg-id="a.bola.pt" tvg-name="PT: A BOLA TV" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: A BOLA TV
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A BOLA TV" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: A BOLA TV
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207155
 #EXTINF:-1 tvg-id="afro.music.pt" tvg-name="PT: AFRO MUSIC" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: AFRO MUSIC
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207156
 #EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: AMC
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207157
-#EXTINF:-1 tvg-id="artv.pt" tvg-name="PT: ARTV" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: ARTV
+#EXTINF:-1 tvg-id="artv.pt" tvg-name="PT: BBC WORLD NEWS" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: BBC WORLD NEWS
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207158
 #EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: AXN
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207159
@@ -3245,7 +3229,7 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/207172
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207173
 #EXTINF:-1 tvg-id="cbs.reality.pt" tvg-name="PT: CBS REALITY" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: CBS REALITY
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207174
-#EXTINF:-1 tvg-id="channel.1.russia.pt" tvg-name="PT: CHANNEL 1 RUSSIA" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: CHANNEL 1 RUSSIA
+#EXTINF:-1 tvg-id="channel.1.russia.pt" tvg-name="PT: ALMA LUSA" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: ALMA LUSA
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207175
 #EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINEMUNDO" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: CINEMUNDO
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207176
@@ -3259,9 +3243,9 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/207179
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207180
 #EXTINF:-1 tvg-id="crime.plus.investigation.pt" tvg-name="PT: CRIME + INVESTIGATION" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: CRIME + INVESTIGATION
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207181
-#EXTINF:-1 tvg-id="cubavision.internacional.pt" tvg-name="PT: CUBAVISION INTERNACIONAL" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: CUBAVISION INTERNACIONAL
+#EXTINF:-1 tvg-id="cubavision.internacional.pt" tvg-name="PT: BIGGS" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: BIGGS
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207182
-#EXTINF:-1 tvg-id="deutsche.welle.pt" tvg-name="PT: DEUTSCHE WELLE" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: DEUTSCHE WELLE
+#EXTINF:-1 tvg-id="deutsche.welle.pt" tvg-name="PT: BOOMERANG" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: BOOMERANG
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207183
 #EXTINF:-1 tvg-id="discovery.pt" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: DISCOVERY CHANNEL
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207184
@@ -3285,7 +3269,7 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/207192
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207193
 #EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 6
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207194
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROCHANNEL" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: EUROCHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PT: CASA E COZINHA" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: CASA E COZINHA
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207195
 #EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT: EURONEWS" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: EURONEWS
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207196
@@ -3297,9 +3281,9 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/207198
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207199
 #EXTINF:-1 tvg-id="" tvg-name="PT: FATIMA TV" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: FATIMA TV
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207200
-#EXTINF:-1 tvg-id="fight.network.pt" tvg-name="PT: FIGHT NETWORK" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: FIGHT NETWORK
+#EXTINF:-1 tvg-id="fight.network.pt" tvg-name="PT: LOLLY KIDS" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: LOLLY KIDS
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207201
-#EXTINF:-1 tvg-id="0" tvg-name="PT: FINE LIVING NETWORK" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: FINE LIVING NETWORK
+#EXTINF:-1 tvg-id="0" tvg-name="PT: NAT GEO WILD" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: NAT GEO WILD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207202
 #EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: FOX
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207203
@@ -3311,13 +3295,13 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/207205
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207206
 #EXTINF:-1 tvg-id="fox.movies.pt" tvg-name="PT: FOX MOVIES" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: FOX MOVIES
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207207
-#EXTINF:-1 tvg-id="france.24.pt" tvg-name="PT: FRANCE 24 E" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: FRANCE 24 E
+#EXTINF:-1 tvg-id="france.24.pt" tvg-name="PT: S+" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: S+
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207208
 #EXTINF:-1 tvg-id="fuel.pt" tvg-name="PT: FUEL TV" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: FUEL TV
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207209
-#EXTINF:-1 tvg-id="gametoon.pt" tvg-name="PT: GAMETOON" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: GAMETOON
+#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="PT: SPORT TV 6" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: SPORT TV 6
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207210
-#EXTINF:-1 tvg-id="ginx.esports.gb" tvg-name="PT: GINX ESPORTS TV" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: GINX ESPORTS TV
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY CAM 1" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: TVI REALITY CAM 1
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207211
 #EXTINF:-1 tvg-id="globo.pt" tvg-name="PT: GLOBO" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: GLOBO
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207212
@@ -3331,22 +3315,18 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/207215
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207216
 #EXTINF:-1 tvg-id="jimjam.pt" tvg-name="PT: JIM JAM" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: JIM JAM
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207217
-#EXTINF:-1 tvg-id="0" tvg-name="PT: KOMBAT SPORT" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: KOMBAT SPORT
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY CAM 2" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: TVI REALITY CAM 2
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207218
-#EXTINF:-1 tvg-id="kuriakos.pt" tvg-name="PT: KURIAKOS CINE" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: KURIAKOS CINE
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY CAM 3" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: TVI REALITY CAM 3
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207219
-#EXTINF:-1 tvg-id="" tvg-name="PT: KURIAKOS KIDS" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: KURIAKOS KIDS
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY CAM 4" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: TVI REALITY CAM 4
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207220
-#EXTINF:-1 tvg-id="" tvg-name="PT: KURIAKOS MUSIC" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: KURIAKOS MUSIC
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/207221
 #EXTINF:-1 tvg-id="0" tvg-name="PT: KURIAKOS TV" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: KURIAKOS TV
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207222
 #EXTINF:-1 tvg-id="localvisao.pt" tvg-name="PT: LOCALVISAO" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: LOCALVISAO
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207223
-#EXTINF:-1 tvg-id="0" tvg-name="PT: LUXE TV" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: LUXE TV
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY MOSAICO" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: TVI REALITY MOSAICO
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207224
-#EXTINF:-1 tvg-id="mas.chic.pt" tvg-name="PT: MAS CHIC" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: MAS CHIC
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/207225
 #EXTINF:-1 tvg-id="mcm.pop.pt" tvg-name="PT: MCM POP" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: MCM POP
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207226
 #EXTINF:-1 tvg-id="mcm.top.pt" tvg-name="PT: MCM TOP" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: MCM TOP
@@ -3359,14 +3339,8 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/207229
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207230
 #EXTINF:-1 tvg-id="mtv.live.pt" tvg-name="PT: MTV LIVE" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: MTV LIVE
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207231
-#EXTINF:-1 tvg-id="0" tvg-name="PT: MVM" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: MVM
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/207232
 #EXTINF:-1 tvg-id="national.geographic.pt" tvg-name="PT: NATIONAL GEOGRAPHIC" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207233
-#EXTINF:-1 tvg-id="nba.pt" tvg-name="PT: NBA TV" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: NBA TV
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/207234
-#EXTINF:-1 tvg-id="nhk.world.pt" tvg-name="PT: NHK WORLD JAPAN" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: NHK WORLD JAPAN
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/207235
 #EXTINF:-1 tvg-id="nick.jr.pt" tvg-name="PT: NICK JR" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: NICK JR
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207236
 #EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="PT: NICKELODEON" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: NICKELODEON
@@ -3377,7 +3351,7 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/207238
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207239
 #EXTINF:-1 tvg-id="panda.pt" tvg-name="PT: PANDA" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: PANDA
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207240
-#EXTINF:-1 tvg-id="biggs.pt" tvg-name="PT: PANDA BIGGS" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: PANDA BIGGS
+#EXTINF:-1 tvg-id="biggs.pt" tvg-name="PT: PANDA KIDS" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: PANDA KIDS
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207241
 #EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT: PFC" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: PFC
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207242
@@ -3389,10 +3363,6 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/207244
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207282
 #EXTINF:-1 tvg-id="" tvg-name="PT: RED BULL TV" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: RED BULL TV
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207245
-#EXTINF:-1 tvg-id="0" tvg-name="PT: REGIOES TV" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: REGIOES TV
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/207246
-#EXTINF:-1 tvg-id="" tvg-name="PT: RT DOC" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: RT DOC
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/207247
 #EXTINF:-1 tvg-id="rtp.1.pt" tvg-name="PT: RTP 1" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: RTP 1
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207248
 #EXTINF:-1 tvg-id="rtp.2.pt" tvg-name="PT: RTP 2" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: RTP 2
@@ -3407,8 +3377,6 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/207252
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207253
 #EXTINF:-1 tvg-id="rtp.memoria.pt" tvg-name="PT: RTP MEMORIA" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: RTP MEMORIA
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207254
-#EXTINF:-1 tvg-id="s.plus.pt" tvg-name="PT: SAUDE" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: SAUDE
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/207255
 #EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: SIC
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207256
 #EXTINF:-1 tvg-id="sic.caras.pt" tvg-name="PT: SIC CARAS" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: SIC CARAS
@@ -3463,8 +3431,6 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/207280
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207281
 #EXTINF:-1 tvg-id="tv5.monde.pt" tvg-name="PT: TV5 MONDE" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: TV5 MONDE
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207283
-#EXTINF:-1 tvg-id="tvc.news.gb" tvg-name="PT: TVC NEWS" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: TVC NEWS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/207284
 #EXTINF:-1 tvg-id="tvcine.action.pt" tvg-name="PT: TVCINE ACTION" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: TVCINE ACTION
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207285
 #EXTINF:-1 tvg-id="tvcine.edition.pt" tvg-name="PT: TVCINE EDITION" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: TVCINE EDITION
@@ -3485,13 +3451,11 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/207292
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207293
 #EXTINF:-1 tvg-id="tvi.reality.pt" tvg-name="PT: TVI REALITY" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: TVI REALITY
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207294
-#EXTINF:-1 tvg-id="um.europa.pt" tvg-name="PT: UM EUROPA" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: UM EUROPA
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/207295
 #EXTINF:-1 tvg-id="vh1.pt" tvg-name="PT: VH1" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: VH1
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207296
 #EXTINF:-1 tvg-id="zap.viva.pt" tvg-name="PT: ZAP VIVA" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: ZAP VIVA
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207297
-#EXTINF:-1 tvg-id="5.star.max.eastern.us" tvg-name="USA: 5 STARMAX" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: 5 STARMAX
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="USA: 5 STARMAX" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: 5 STARMAX
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206480
 #EXTINF:-1 tvg-id="a.e.eastern.us" tvg-name="USA: A&E" tvg-logo="https://static.b2pteam.com/logos/internacionais/usa.png" group-title="ESTADOS UNIDOS",USA: A&E
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206481
@@ -3991,70 +3955,6 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/206218
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206219
 #EXTINF:-1 tvg-id="NBAX29.us" tvg-name="NBA: WASHINGTON WIZARDS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nba.png" group-title="PPV: NBA LEAGUE PASS",NBA: WASHINGTON WIZARDS
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/206220
-#EXTINF:-1 tvg-id="" tvg-name="NHL: ANAHEIM DUCKS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: ANAHEIM DUCKS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206221
-#EXTINF:-1 tvg-id="" tvg-name="NHL: ARIZONA COYOTES" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: ARIZONA COYOTES
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206222
-#EXTINF:-1 tvg-id="" tvg-name="NHL: BOSTON BRUINS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: BOSTON BRUINS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206223
-#EXTINF:-1 tvg-id="" tvg-name="NHL: BUFFALO SABRES" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: BUFFALO SABRES
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206224
-#EXTINF:-1 tvg-id="" tvg-name="NHL: CALGARY FLAMES" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: CALGARY FLAMES
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206225
-#EXTINF:-1 tvg-id="" tvg-name="NHL: CAROLINA HURRICANES" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: CAROLINA HURRICANES
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206226
-#EXTINF:-1 tvg-id="" tvg-name="NHL: CHICAGO BLACKHAWKS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: CHICAGO BLACKHAWKS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206227
-#EXTINF:-1 tvg-id="" tvg-name="NHL: COLORADO AVALANCHE" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: COLORADO AVALANCHE
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206228
-#EXTINF:-1 tvg-id="" tvg-name="NHL: COLUMBUS BLUE JACKETS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: COLUMBUS BLUE JACKETS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206229
-#EXTINF:-1 tvg-id="" tvg-name="NHL: DALLAS STARS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: DALLAS STARS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206230
-#EXTINF:-1 tvg-id="" tvg-name="NHL: DETROIT RED WINGS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: DETROIT RED WINGS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206231
-#EXTINF:-1 tvg-id="" tvg-name="NHL: EDMONTON OILERS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: EDMONTON OILERS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206232
-#EXTINF:-1 tvg-id="" tvg-name="NHL: FLORIDA PANTHERS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: FLORIDA PANTHERS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206233
-#EXTINF:-1 tvg-id="" tvg-name="NHL: LOS ANGELES KINGS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: LOS ANGELES KINGS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206234
-#EXTINF:-1 tvg-id="" tvg-name="NHL: MINNESOTA WILD" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: MINNESOTA WILD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206235
-#EXTINF:-1 tvg-id="" tvg-name="NHL: MONTREAL CANADIENS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: MONTREAL CANADIENS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206236
-#EXTINF:-1 tvg-id="" tvg-name="NHL: NASHVILLE PREDATORS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: NASHVILLE PREDATORS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206237
-#EXTINF:-1 tvg-id="" tvg-name="NHL: NEW JERSEY DEVILS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: NEW JERSEY DEVILS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206238
-#EXTINF:-1 tvg-id="" tvg-name="NHL: NEW YORK ISLANDERS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: NEW YORK ISLANDERS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206239
-#EXTINF:-1 tvg-id="" tvg-name="NHL: NEW YORK RANGERS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: NEW YORK RANGERS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206240
-#EXTINF:-1 tvg-id="" tvg-name="NHL: OTTAWA SENATORS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: OTTAWA SENATORS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206241
-#EXTINF:-1 tvg-id="" tvg-name="NHL: PHILADELPHIA FLYERS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: PHILADELPHIA FLYERS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206242
-#EXTINF:-1 tvg-id="" tvg-name="NHL: PITTSBURGH PENGUINS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: PITTSBURGH PENGUINS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206243
-#EXTINF:-1 tvg-id="" tvg-name="NHL: SAN JOSE SHARKS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: SAN JOSE SHARKS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206244
-#EXTINF:-1 tvg-id="" tvg-name="NHL: SEATTLE KRAKEN" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: SEATTLE KRAKEN
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206245
-#EXTINF:-1 tvg-id="" tvg-name="NHL: ST. LOUIS BLUES" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: ST. LOUIS BLUES
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206246
-#EXTINF:-1 tvg-id="" tvg-name="NHL: TAMPA BAY LIGHTNING" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: TAMPA BAY LIGHTNING
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206247
-#EXTINF:-1 tvg-id="" tvg-name="NHL: TORONTO MAPLE LEAFS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: TORONTO MAPLE LEAFS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206248
-#EXTINF:-1 tvg-id="" tvg-name="NHL: VANCOUVER CANUCKS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: VANCOUVER CANUCKS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206249
-#EXTINF:-1 tvg-id="" tvg-name="NHL: VEGAS GOLDEN KNIGHTS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: VEGAS GOLDEN KNIGHTS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206250
-#EXTINF:-1 tvg-id="" tvg-name="NHL: WASHINGTON CAPITALS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: WASHINGTON CAPITALS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206251
-#EXTINF:-1 tvg-id="" tvg-name="NHL: WINNIPEG JETS" tvg-logo="https://static.b2pteam.com/logos/internacionais/nhl.png" group-title="PPV: NHL CENTER ICE",NHL: WINNIPEG JETS
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/206252
 #EXTINF:-1 tvg-id="" tvg-name="AR: 5TV CORRIENTES SD" tvg-logo="" group-title="ARGENTINA",AR: 5TV CORRIENTES SD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/210342
 #EXTINF:-1 tvg-id="" tvg-name="AR: A24 HD" tvg-logo="" group-title="ARGENTINA",AR: A24 HD
