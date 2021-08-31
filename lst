@@ -555,7 +555,7 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/164600
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/164618
 #EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="GLOBO TV VERDES MARES SD" tvg-logo="http://static.bldn.vip/logos/globo/tvverdemares.png" group-title="REDE GLOBO",GLOBO TV VERDES MARES SD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/25448
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV SP FHD H265" tvg-logo="http://static.bldn.vip/logos/abertos/Record.png" group-title="RECORD TV",RECORD TV SP FHD H265
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV SP FHD H265" tvg-logo="http://static.bldn.vip/logos/record/recordsp.png" group-title="RECORD TV",RECORD TV SP FHD H265
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/61117
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV SP FHD" tvg-logo="http://static.bldn.vip/logos/record/recordsp.png" group-title="RECORD TV",RECORD TV SP FHD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/4972
@@ -801,7 +801,7 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/4953
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/177946
 #EXTINF:-1 tvg-id="univesp.br" tvg-name="TV UNIVESP HD" tvg-logo="http://static.bldn.vip/logos/abertos/tvunivesp.png" group-title="CANAIS ABERTOS",TV UNIVESP HD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/169802
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",PREMIERE CLUBES FHD H265
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",PREMIERE CLUBES FHD H265
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/205695
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD H265 ²" tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="PREMIERE",PREMIERE CLUBES FHD H265 ²
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/30936
@@ -2521,6 +2521,56 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/61112
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/22180
 #EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="TV NOVO TEMPO SD" tvg-logo="http://static.bldn.vip/logos/religiosos/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO SD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/192717
+#EXTINF:-1 tvg-id="" tvg-name="COM BRASIL SD" tvg-logo="" group-title="CANAIS ABERTOS",COM BRASIL SD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/213988
+#EXTINF:-1 tvg-id="" tvg-name="URBAN MOVIES" tvg-logo="" group-title="FILMES E SERIES",URBAN MOVIES
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/213989
+#EXTINF:-1 tvg-id="" tvg-name="URBAN DOCS" tvg-logo="" group-title="DOCUMENTARIOS",URBAN DOCS
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/213990
+#EXTINF:-1 tvg-id="" tvg-name="URBAN KIDS" tvg-logo="" group-title="INFANTIL",URBAN KIDS
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/213991
+#EXTINF:-1 tvg-id="" tvg-name="URBAN TV" tvg-logo="" group-title="VARIEDADES",URBAN TV
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/213992
+#EXTINF:-1 tvg-id="" tvg-name="URBAN SERIES" tvg-logo="" group-title="FILMES E SERIES",URBAN SERIES
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/213993
+#EXTINF:-1 tvg-id="" tvg-name="TV PROMESSAS" tvg-logo="" group-title="CANAIS ABERTOS",TV PROMESSAS
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/213994
+#EXTINF:-1 tvg-id="" tvg-name="24 NEWS" tvg-logo="" group-title="NOTICIAS",24 NEWS
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/213995
+#EXTINF:-1 tvg-id="" tvg-name="CLUBINHO FUN" tvg-logo="" group-title="INFANTIL",CLUBINHO FUN
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/213996
+#EXTINF:-1 tvg-id="" tvg-name="YES LIFE" tvg-logo="" group-title="CANAIS ABERTOS",YES LIFE
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/213997
+#EXTINF:-1 tvg-id="" tvg-name="UP CHANNEL" tvg-logo="" group-title="CANAIS ABERTOS",UP CHANNEL
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/213998
+#EXTINF:-1 tvg-id="" tvg-name="INSPIRE" tvg-logo="" group-title="CANAIS ABERTOS",INSPIRE
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/213999
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENDO" tvg-logo="" group-title="FILMES E SERIES",ENTRETENDO
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214000
+#EXTINF:-1 tvg-id="" tvg-name="BORA FILMES" tvg-logo="" group-title="FILMES E SERIES",BORA FILMES
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214001
+#EXTINF:-1 tvg-id="" tvg-name="HELLO TV" tvg-logo="" group-title="CANAIS ABERTOS",HELLO TV
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214002
+#EXTINF:-1 tvg-id="" tvg-name="REDE MOSAICO" tvg-logo="" group-title="CANAIS ABERTOS",REDE MOSAICO
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214003
+#EXTINF:-1 tvg-id="" tvg-name="SESC TV" tvg-logo="" group-title="CANAIS ABERTOS",SESC TV
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214005
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL" tvg-logo="" group-title="NOTICIAS",CNN ESPANHOL
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214006
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL" tvg-logo="" group-title="NOTICIAS",CNN INTERNACIONAL
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214007
+#EXTINF:-1 tvg-id="" tvg-name="TVT" tvg-logo="" group-title="CANAIS ABERTOS",TVT
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214119
+#EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS" tvg-logo="" group-title="CANAIS ABERTOS",REDE GENESIS
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214120
+#EXTINF:-1 tvg-id="" tvg-name="TV MUNDO MAIOR" tvg-logo="" group-title="CANAIS ABERTOS",TV MUNDO MAIOR
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214121
+#EXTINF:-1 tvg-id="" tvg-name="TV JOCKEY" tvg-logo="" group-title="CANAIS ABERTOS",TV JOCKEY
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214122
+#EXTINF:-1 tvg-id="" tvg-name="NHK JAPAN" tvg-logo="" group-title="VARIEDADES",NHK JAPAN
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214123
+#EXTINF:-1 tvg-id="" tvg-name="SHOPTIME" tvg-logo="" group-title="VARIEDADES",SHOPTIME
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214124
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET 4K+ H265" tvg-logo="http://static.bldn.vip/logos/documentario/animalplanet.png" group-title="4K ULTRA HD",ANIMAL PLANET 4K+ H265
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/174640
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN 4K+ H265" tvg-logo="http://static.bldn.vip/logos/filmeseseries/axn.png" group-title="4K ULTRA HD",AXN 4K+ H265
@@ -3185,6 +3235,8 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/67264
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/67265
 #EXTINF:-1 tvg-id="" tvg-name="24HS: CLIPES ZUMBA HD" tvg-logo="http://static.bldn.vip/logos/clipes24hs/clipeszumba.png" group-title="CLIPES 24HS PREMIUM",24HS: CLIPES ZUMBA HD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/67721
+#EXTINF:-1 tvg-id="" tvg-name="FILMES EM CARTAZ" tvg-logo="" group-title="PROMOCIONAL",FILMES EM CARTAZ
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/213176
 #EXTINF:-1 tvg-id="1.plus.1.pt" tvg-name="PT: AL JAZEERA" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: AL JAZEERA
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207153
 #EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 KITCHEN" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: 24 KITCHEN
@@ -4913,397 +4965,397 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/64670
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/61356
 #EXTINF:-1 tvg-id="" tvg-name="XXX: VÁRIAS NOVINHAS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: VÁRIAS NOVINHAS FHD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/61352
-#EXTINF:-1 tvg-id="" tvg-name="XXX 02" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 02
+#EXTINF:-1 tvg-id="" tvg-name="XXX 02" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX 02
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51493.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 03" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 03
+#EXTINF:-1 tvg-id="" tvg-name="XXX 03" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX 03
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 04" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 04
+#EXTINF:-1 tvg-id="" tvg-name="XXX 04" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX 04
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 05" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 05
+#EXTINF:-1 tvg-id="" tvg-name="XXX 05" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX 05
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 06" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 06
+#EXTINF:-1 tvg-id="" tvg-name="XXX 06" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX 06
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 07" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 07
+#EXTINF:-1 tvg-id="" tvg-name="XXX 07" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX 07
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51498.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 08" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 08
+#EXTINF:-1 tvg-id="" tvg-name="XXX 08" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX 08
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 09" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 09
+#EXTINF:-1 tvg-id="" tvg-name="XXX 09" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX 09
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51500.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 10" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 10
+#EXTINF:-1 tvg-id="" tvg-name="XXX 10" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX 10
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51516.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 11" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 11
+#EXTINF:-1 tvg-id="" tvg-name="XXX 11" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX 11
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51501.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 12" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 12
+#EXTINF:-1 tvg-id="" tvg-name="XXX 12" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX 12
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 13" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 13
+#EXTINF:-1 tvg-id="" tvg-name="XXX 13" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX 13
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 14" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 14
+#EXTINF:-1 tvg-id="" tvg-name="XXX 14" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX 14
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51504.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 15" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 15
+#EXTINF:-1 tvg-id="" tvg-name="XXX 15" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX 15
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51517.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 16" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 16
+#EXTINF:-1 tvg-id="" tvg-name="XXX 16" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX 16
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51518.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 17" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 17
+#EXTINF:-1 tvg-id="" tvg-name="XXX 17" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX 17
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51519.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX 18" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX 18
+#EXTINF:-1 tvg-id="" tvg-name="XXX 18" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX 18
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/51520.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX19" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX19
+#EXTINF:-1 tvg-id="" tvg-name="XXX19" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX19
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67362.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX20" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX20
+#EXTINF:-1 tvg-id="" tvg-name="XXX20" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX20
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67363.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX21" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX21
+#EXTINF:-1 tvg-id="" tvg-name="XXX21" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX21
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67364.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX22" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX22
+#EXTINF:-1 tvg-id="" tvg-name="XXX22" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX22
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67365.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX23" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX23
+#EXTINF:-1 tvg-id="" tvg-name="XXX23" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX23
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67366.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX24" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX24
+#EXTINF:-1 tvg-id="" tvg-name="XXX24" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX24
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67367.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX25" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX25
+#EXTINF:-1 tvg-id="" tvg-name="XXX25" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX25
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67368.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX26" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX26
+#EXTINF:-1 tvg-id="" tvg-name="XXX26" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX26
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67369.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX27" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX27
+#EXTINF:-1 tvg-id="" tvg-name="XXX27" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX27
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67370.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX28" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX28
+#EXTINF:-1 tvg-id="" tvg-name="XXX28" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX28
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67371.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX29" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX29
+#EXTINF:-1 tvg-id="" tvg-name="XXX29" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX29
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67372.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX30" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX30
+#EXTINF:-1 tvg-id="" tvg-name="XXX30" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX30
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67373.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX31" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX31
+#EXTINF:-1 tvg-id="" tvg-name="XXX31" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX31
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67374.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX32" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX32
+#EXTINF:-1 tvg-id="" tvg-name="XXX32" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX32
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67375.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX33" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX33
+#EXTINF:-1 tvg-id="" tvg-name="XXX33" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX33
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67376.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX34" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX34
+#EXTINF:-1 tvg-id="" tvg-name="XXX34" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX34
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67377.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX35" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX35
+#EXTINF:-1 tvg-id="" tvg-name="XXX35" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX35
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67378.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX36" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX36
+#EXTINF:-1 tvg-id="" tvg-name="XXX36" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX36
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67379.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX37" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX37
+#EXTINF:-1 tvg-id="" tvg-name="XXX37" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX37
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67380.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX38" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX38
+#EXTINF:-1 tvg-id="" tvg-name="XXX38" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX38
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67381.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX39" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX39
+#EXTINF:-1 tvg-id="" tvg-name="XXX39" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX39
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX40" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX40
+#EXTINF:-1 tvg-id="" tvg-name="XXX40" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX40
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67383.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX41" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX41
+#EXTINF:-1 tvg-id="" tvg-name="XXX41" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX41
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67384.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX42" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX42
+#EXTINF:-1 tvg-id="" tvg-name="XXX42" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX42
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67385.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX43" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX43
+#EXTINF:-1 tvg-id="" tvg-name="XXX43" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX43
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67386.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX44" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX44
+#EXTINF:-1 tvg-id="" tvg-name="XXX44" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX44
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX45" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX45
+#EXTINF:-1 tvg-id="" tvg-name="XXX45" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX45
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67388.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX46" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX46
+#EXTINF:-1 tvg-id="" tvg-name="XXX46" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX46
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67389.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX47" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX47
+#EXTINF:-1 tvg-id="" tvg-name="XXX47" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX47
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67390.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX48" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX48
+#EXTINF:-1 tvg-id="" tvg-name="XXX48" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX48
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67391.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX49" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX49
+#EXTINF:-1 tvg-id="" tvg-name="XXX49" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX49
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67392.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX50" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX50
+#EXTINF:-1 tvg-id="" tvg-name="XXX50" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX50
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/67393.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTOS: 51" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX ADULTOS: 51
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTOS: 51" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX ADULTOS: 51
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTOS: 52" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX ADULTOS: 52
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTOS: 52" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX ADULTOS: 52
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169673.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTOS: 53" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX ADULTOS: 53
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTOS: 53" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX ADULTOS: 53
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTOS: 54" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX ADULTOS: 54
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTOS: 54" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX ADULTOS: 54
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX55" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX55
+#EXTINF:-1 tvg-id="" tvg-name="XXX55" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX55
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX56" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX56
+#EXTINF:-1 tvg-id="" tvg-name="XXX56" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX56
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX57" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX57
+#EXTINF:-1 tvg-id="" tvg-name="XXX57" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX57
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX58" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX58
+#EXTINF:-1 tvg-id="" tvg-name="XXX58" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX58
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX59" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX59
+#EXTINF:-1 tvg-id="" tvg-name="XXX59" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX59
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX60" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX60
+#EXTINF:-1 tvg-id="" tvg-name="XXX60" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX60
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX61" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX61
+#EXTINF:-1 tvg-id="" tvg-name="XXX61" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX61
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX62" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX62
+#EXTINF:-1 tvg-id="" tvg-name="XXX62" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX62
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169683.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX63" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX63
+#EXTINF:-1 tvg-id="" tvg-name="XXX63" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX63
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169684.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTOS: 64" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX ADULTOS: 64
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTOS: 64" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX ADULTOS: 64
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169685.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX65" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX65
+#EXTINF:-1 tvg-id="" tvg-name="XXX65" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX65
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX66" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX66
+#EXTINF:-1 tvg-id="" tvg-name="XXX66" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX66
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169687.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX67" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX67
+#EXTINF:-1 tvg-id="" tvg-name="XXX67" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX67
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169688.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX68" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX68
+#EXTINF:-1 tvg-id="" tvg-name="XXX68" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX68
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169689.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX69" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX69
+#EXTINF:-1 tvg-id="" tvg-name="XXX69" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX69
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169690.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX70" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX70
+#EXTINF:-1 tvg-id="" tvg-name="XXX70" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX70
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX71" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX71
+#EXTINF:-1 tvg-id="" tvg-name="XXX71" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX71
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169693.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX72" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX72
+#EXTINF:-1 tvg-id="" tvg-name="XXX72" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX72
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169694.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX73" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX73
+#EXTINF:-1 tvg-id="" tvg-name="XXX73" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX73
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169695.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX74" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX74
+#EXTINF:-1 tvg-id="" tvg-name="XXX74" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX74
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169696.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX75" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX75
+#EXTINF:-1 tvg-id="" tvg-name="XXX75" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX75
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169697.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX76" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX76
+#EXTINF:-1 tvg-id="" tvg-name="XXX76" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX76
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169698.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX77" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX77
+#EXTINF:-1 tvg-id="" tvg-name="XXX77" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX77
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169699.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX78" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX78
+#EXTINF:-1 tvg-id="" tvg-name="XXX78" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX78
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169700.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX79" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX79
+#EXTINF:-1 tvg-id="" tvg-name="XXX79" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX79
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169701.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX80" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX80
+#EXTINF:-1 tvg-id="" tvg-name="XXX80" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX80
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169702.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX81" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX81
+#EXTINF:-1 tvg-id="" tvg-name="XXX81" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX81
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX82" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX82
+#EXTINF:-1 tvg-id="" tvg-name="XXX82" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX82
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169704.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX83" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX83
+#EXTINF:-1 tvg-id="" tvg-name="XXX83" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX83
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX84" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX84
+#EXTINF:-1 tvg-id="" tvg-name="XXX84" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX84
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169706.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX85" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX85
+#EXTINF:-1 tvg-id="" tvg-name="XXX85" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX85
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX86" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX86
+#EXTINF:-1 tvg-id="" tvg-name="XXX86" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX86
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169708.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX87" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX87
+#EXTINF:-1 tvg-id="" tvg-name="XXX87" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX87
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX88" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX88
+#EXTINF:-1 tvg-id="" tvg-name="XXX88" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX88
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX89" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX89
+#EXTINF:-1 tvg-id="" tvg-name="XXX89" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX89
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX90" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX90
+#EXTINF:-1 tvg-id="" tvg-name="XXX90" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX90
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX91" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX91
+#EXTINF:-1 tvg-id="" tvg-name="XXX91" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX91
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169713.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX92" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX92
+#EXTINF:-1 tvg-id="" tvg-name="XXX92" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX92
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX93" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX93
+#EXTINF:-1 tvg-id="" tvg-name="XXX93" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX93
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169715.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX94" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX94
+#EXTINF:-1 tvg-id="" tvg-name="XXX94" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX94
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX95" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX95
+#EXTINF:-1 tvg-id="" tvg-name="XXX95" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX95
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX96" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX96
+#EXTINF:-1 tvg-id="" tvg-name="XXX96" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX96
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX97" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX97
+#EXTINF:-1 tvg-id="" tvg-name="XXX97" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX97
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX98" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX98
+#EXTINF:-1 tvg-id="" tvg-name="XXX98" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX98
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX99" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX99
+#EXTINF:-1 tvg-id="" tvg-name="XXX99" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX99
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX100" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX100
+#EXTINF:-1 tvg-id="" tvg-name="XXX100" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX100
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX101" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX101
+#EXTINF:-1 tvg-id="" tvg-name="XXX101" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX101
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX102" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX102
+#EXTINF:-1 tvg-id="" tvg-name="XXX102" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX102
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX103" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX103
+#EXTINF:-1 tvg-id="" tvg-name="XXX103" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX103
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX104" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX104
+#EXTINF:-1 tvg-id="" tvg-name="XXX104" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX104
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX105" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX105
+#EXTINF:-1 tvg-id="" tvg-name="XXX105" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX105
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169727.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX106" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX106
+#EXTINF:-1 tvg-id="" tvg-name="XXX106" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX106
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169728.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX107" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX107
+#EXTINF:-1 tvg-id="" tvg-name="XXX107" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX107
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169729.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX108" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX108
+#EXTINF:-1 tvg-id="" tvg-name="XXX108" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX108
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169730.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX109" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX109
+#EXTINF:-1 tvg-id="" tvg-name="XXX109" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX109
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX110" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX110
+#EXTINF:-1 tvg-id="" tvg-name="XXX110" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX110
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX111" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX111
+#EXTINF:-1 tvg-id="" tvg-name="XXX111" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX111
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX112" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX112
+#EXTINF:-1 tvg-id="" tvg-name="XXX112" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX112
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX113" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX113
+#EXTINF:-1 tvg-id="" tvg-name="XXX113" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX113
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX114" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX114
+#EXTINF:-1 tvg-id="" tvg-name="XXX114" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX114
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX115" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX115
+#EXTINF:-1 tvg-id="" tvg-name="XXX115" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX115
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX116" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX116
+#EXTINF:-1 tvg-id="" tvg-name="XXX116" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX116
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX117" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX117
+#EXTINF:-1 tvg-id="" tvg-name="XXX117" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX117
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX118" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX118
+#EXTINF:-1 tvg-id="" tvg-name="XXX118" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX118
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX119" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX119
+#EXTINF:-1 tvg-id="" tvg-name="XXX119" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX119
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX120" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX120
+#EXTINF:-1 tvg-id="" tvg-name="XXX120" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX120
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX121" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX121
+#EXTINF:-1 tvg-id="" tvg-name="XXX121" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX121
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX122" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX122
+#EXTINF:-1 tvg-id="" tvg-name="XXX122" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX122
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX123" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX123
+#EXTINF:-1 tvg-id="" tvg-name="XXX123" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX123
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX124" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX124
+#EXTINF:-1 tvg-id="" tvg-name="XXX124" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX124
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX125" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX125
+#EXTINF:-1 tvg-id="" tvg-name="XXX125" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX125
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX126" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX126
+#EXTINF:-1 tvg-id="" tvg-name="XXX126" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX126
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX127" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX127
+#EXTINF:-1 tvg-id="" tvg-name="XXX127" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX127
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX128" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX128
+#EXTINF:-1 tvg-id="" tvg-name="XXX128" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX128
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX129" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX129
+#EXTINF:-1 tvg-id="" tvg-name="XXX129" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX129
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169751.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX130" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX130
+#EXTINF:-1 tvg-id="" tvg-name="XXX130" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX130
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX131" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX131
+#EXTINF:-1 tvg-id="" tvg-name="XXX131" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX131
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169753.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX132" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX132
+#EXTINF:-1 tvg-id="" tvg-name="XXX132" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX132
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169754.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX133" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX133
+#EXTINF:-1 tvg-id="" tvg-name="XXX133" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX133
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169755.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX134" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX134
+#EXTINF:-1 tvg-id="" tvg-name="XXX134" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX134
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX135" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX135
+#EXTINF:-1 tvg-id="" tvg-name="XXX135" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX135
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169757.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX136" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX136
+#EXTINF:-1 tvg-id="" tvg-name="XXX136" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX136
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX137" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX137
+#EXTINF:-1 tvg-id="" tvg-name="XXX137" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX137
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX138" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX138
+#EXTINF:-1 tvg-id="" tvg-name="XXX138" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX138
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169760.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX139" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX139
+#EXTINF:-1 tvg-id="" tvg-name="XXX139" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX139
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169761.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX140" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX140
+#EXTINF:-1 tvg-id="" tvg-name="XXX140" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX140
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX141" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX141
+#EXTINF:-1 tvg-id="" tvg-name="XXX141" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX141
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX142" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX142
+#EXTINF:-1 tvg-id="" tvg-name="XXX142" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX142
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169764.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX143" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX143
+#EXTINF:-1 tvg-id="" tvg-name="XXX143" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX143
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169765.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX144" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX144
+#EXTINF:-1 tvg-id="" tvg-name="XXX144" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX144
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX145" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX145
+#EXTINF:-1 tvg-id="" tvg-name="XXX145" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX145
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX146" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX146
+#EXTINF:-1 tvg-id="" tvg-name="XXX146" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX146
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX147" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX147
+#EXTINF:-1 tvg-id="" tvg-name="XXX147" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX147
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169769.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX148" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX148
+#EXTINF:-1 tvg-id="" tvg-name="XXX148" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX148
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169770.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX149" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX149
+#EXTINF:-1 tvg-id="" tvg-name="XXX149" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX149
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169771.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX150" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX150
+#EXTINF:-1 tvg-id="" tvg-name="XXX150" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX150
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX151" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX151
+#EXTINF:-1 tvg-id="" tvg-name="XXX151" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX151
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX152" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX152
+#EXTINF:-1 tvg-id="" tvg-name="XXX152" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX152
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX153" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX153
+#EXTINF:-1 tvg-id="" tvg-name="XXX153" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX153
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX154" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX154
+#EXTINF:-1 tvg-id="" tvg-name="XXX154" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX154
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX155" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX155
+#EXTINF:-1 tvg-id="" tvg-name="XXX155" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX155
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX156" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX156
+#EXTINF:-1 tvg-id="" tvg-name="XXX156" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX156
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169778.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX157" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX157
+#EXTINF:-1 tvg-id="" tvg-name="XXX157" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX157
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169779.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX158" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX158
+#EXTINF:-1 tvg-id="" tvg-name="XXX158" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX158
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169780.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX159" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX159
+#EXTINF:-1 tvg-id="" tvg-name="XXX159" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX159
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169781.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX160" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX160
+#EXTINF:-1 tvg-id="" tvg-name="XXX160" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX160
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169782.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX161" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX161
+#EXTINF:-1 tvg-id="" tvg-name="XXX161" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX161
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169783.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX162" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX162
+#EXTINF:-1 tvg-id="" tvg-name="XXX162" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX162
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169784.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX163" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX163
+#EXTINF:-1 tvg-id="" tvg-name="XXX163" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX163
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX164" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX164
+#EXTINF:-1 tvg-id="" tvg-name="XXX164" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX164
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX165" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX165
+#EXTINF:-1 tvg-id="" tvg-name="XXX165" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX165
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169787.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX166" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX166
+#EXTINF:-1 tvg-id="" tvg-name="XXX166" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX166
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX167" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX167
+#EXTINF:-1 tvg-id="" tvg-name="XXX167" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX167
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX168" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX168
+#EXTINF:-1 tvg-id="" tvg-name="XXX168" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX168
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169790.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX169" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX169
+#EXTINF:-1 tvg-id="" tvg-name="XXX169" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX169
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX170" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX170
+#EXTINF:-1 tvg-id="" tvg-name="XXX170" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX170
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169792.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX171" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX171
+#EXTINF:-1 tvg-id="" tvg-name="XXX171" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX171
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX172" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX172
+#EXTINF:-1 tvg-id="" tvg-name="XXX172" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX172
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX173" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX173
+#EXTINF:-1 tvg-id="" tvg-name="XXX173" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX173
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169796.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX174" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX174
+#EXTINF:-1 tvg-id="" tvg-name="XXX174" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX174
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX175" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX175
+#EXTINF:-1 tvg-id="" tvg-name="XXX175" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX175
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX176" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX176
+#EXTINF:-1 tvg-id="" tvg-name="XXX176" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX176
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX177" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX177
+#EXTINF:-1 tvg-id="" tvg-name="XXX177" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX177
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX178" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX178
+#EXTINF:-1 tvg-id="" tvg-name="XXX178" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX178
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169807.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX179" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX179
+#EXTINF:-1 tvg-id="" tvg-name="XXX179" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX179
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169808.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX180" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX180
+#EXTINF:-1 tvg-id="" tvg-name="XXX180" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX180
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX181" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX181
+#EXTINF:-1 tvg-id="" tvg-name="XXX181" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX181
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX182" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX182
+#EXTINF:-1 tvg-id="" tvg-name="XXX182" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX182
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX183" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX183
+#EXTINF:-1 tvg-id="" tvg-name="XXX183" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX183
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX184" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX184
+#EXTINF:-1 tvg-id="" tvg-name="XXX184" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX184
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX185" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX185
+#EXTINF:-1 tvg-id="" tvg-name="XXX185" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX185
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169814.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX186" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX186
+#EXTINF:-1 tvg-id="" tvg-name="XXX186" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX186
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX187" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX187
+#EXTINF:-1 tvg-id="" tvg-name="XXX187" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX187
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX188" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX188
+#EXTINF:-1 tvg-id="" tvg-name="XXX188" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX188
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX189" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX189
+#EXTINF:-1 tvg-id="" tvg-name="XXX189" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX189
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX190" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX190
+#EXTINF:-1 tvg-id="" tvg-name="XXX190" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX190
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX191" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX191
+#EXTINF:-1 tvg-id="" tvg-name="XXX191" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX191
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX192" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX192
+#EXTINF:-1 tvg-id="" tvg-name="XXX192" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX192
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX193" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX193
+#EXTINF:-1 tvg-id="" tvg-name="XXX193" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX193
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX194" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX194
+#EXTINF:-1 tvg-id="" tvg-name="XXX194" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX194
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX195" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX195
+#EXTINF:-1 tvg-id="" tvg-name="XXX195" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX195
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX196" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX196
+#EXTINF:-1 tvg-id="" tvg-name="XXX196" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX196
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XXX197" tvg-logo="http://bluhd.co/capa23" group-title="FILMES: ADULTOS",XXX197
+#EXTINF:-1 tvg-id="" tvg-name="XXX197" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="FILMES: ADULTOS",XXX197
 http://cdnrede.com:80/movie/murilopinheiro96/pinheirom02/169826.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ACDB: CAM 01 HD" tvg-logo="https://static.b2pteam.com/logos/reality/acasadasbrasileirinhas.png" group-title="XXX: A CASA DAS BRASILEIRINHAS 24H",ACDB: CAM 01 HD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/210355
@@ -5327,3 +5379,5 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/210363
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/210364
 #EXTINF:-1 tvg-id="" tvg-name="ACDB: CAM 11 HD" tvg-logo="https://static.b2pteam.com/logos/reality/acasadasbrasileirinhas.png" group-title="XXX: A CASA DAS BRASILEIRINHAS 24H",ACDB: CAM 11 HD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/210365
+#EXTINF:-1 tvg-id="" tvg-name="SEXPRIVE" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",SEXPRIVE
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214004
