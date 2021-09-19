@@ -1,4 +1,76 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="FILMES EM CARTAZ" tvg-logo="https://static.b2pteam.com/logos/especiais/epg.png" group-title="GUIA DE PROGRAMAÇÃO",FILMES EM CARTAZ
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/213176
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 FHD" tvg-logo="https://static.b2pteam.com/logos/reality/afazenda.png" group-title="A FAZENDA",A FAZENDA 13 FHD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214663
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 HD" tvg-logo="https://static.b2pteam.com/logos/reality/afazenda.png" group-title="A FAZENDA",A FAZENDA 13 HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214662
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 SD" tvg-logo="https://static.b2pteam.com/logos/reality/afazenda.png" group-title="A FAZENDA",A FAZENDA 13 SD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214661
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 01 HD" tvg-logo="https://static.b2pteam.com/logos/reality/afazenda.png" group-title="A FAZENDA",A FAZENDA 13 CAM 01 HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214758
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 02 HD" tvg-logo="https://static.b2pteam.com/logos/reality/afazenda.png" group-title="A FAZENDA",A FAZENDA 13 CAM 02 HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214757
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 03 HD" tvg-logo="https://static.b2pteam.com/logos/reality/afazenda.png" group-title="A FAZENDA",A FAZENDA 13 CAM 03 HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214756
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 04 HD" tvg-logo="https://static.b2pteam.com/logos/reality/afazenda.png" group-title="A FAZENDA",A FAZENDA 13 CAM 04 HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214755
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 05 HD" tvg-logo="https://static.b2pteam.com/logos/reality/afazenda.png" group-title="A FAZENDA",A FAZENDA 13 CAM 05 HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214754
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 06 HD" tvg-logo="https://static.b2pteam.com/logos/reality/afazenda.png" group-title="A FAZENDA",A FAZENDA 13 CAM 06 HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214753
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 07 HD" tvg-logo="https://static.b2pteam.com/logos/reality/afazenda.png" group-title="A FAZENDA",A FAZENDA 13 CAM 07 HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214752
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 08 HD" tvg-logo="https://static.b2pteam.com/logos/reality/afazenda.png" group-title="A FAZENDA",A FAZENDA 13 CAM 08 HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214751
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP 4K H265" tvg-logo="http://static.bldn.vip/logos/globo/globo-sp.png" group-title="4K UHD",GLOBO SP 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174628
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV SP 4K H265" tvg-logo="http://static.bldn.vip/logos/record/recordsp.png" group-title="4K UHD",RECORD TV SP 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174633
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP 4K H265" tvg-logo="http://static.bldn.vip/logos/abertos/sbt.png" group-title="4K UHD",SBT SP 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174629
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP 4K H265" tvg-logo="http://static.bldn.vip/logos/abertos/band.png" group-title="4K UHD",BAND SP 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174630
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES 4K H265" tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="4K UHD",PREMIERE CLUBES 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174635
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 4K H265" tvg-logo="http://static.bldn.vip/logos/esportes/sportv.png" group-title="4K UHD",SPORTV 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174634
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN BRASIL 4K H265" tvg-logo="http://static.bldn.vip/logos/esportes/espnbrasil.png" group-title="4K UHD",ESPN BRASIL 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174650
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="FOX SPORTS 4K H265" tvg-logo="http://static.bldn.vip/logos/esportes/foxsports.png" group-title="4K UHD",FOX SPORTS 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174636
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION 4K H265" tvg-logo="http://static.bldn.vip/logos/telecine/tcaction.png" group-title="4K UHD",TELECINE ACTION 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174647
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA 4K H265" tvg-logo="http://static.bldn.vip/logos/telecine/tcpipoca.png" group-title="4K UHD",TELECINE PIPOCA 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174648
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM 4K H265" tvg-logo="http://static.bldn.vip/logos/telecine/tcpremium.png" group-title="4K UHD",TELECINE PREMIUM 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174649
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN 4K H265" tvg-logo="http://static.bldn.vip/logos/filmeseseries/axn.png" group-title="4K UHD",AXN 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174627
+#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL 4K H265" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="4K UHD",STAR CHANNEL 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174644
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL 4K H265" tvg-logo="http://static.bldn.vip/logos/filmeseseries/universal.png" group-title="4K UHD",UNIVERSAL CHANNEL 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174646
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET 4K H265" tvg-logo="http://static.bldn.vip/logos/documentario/animalplanet.png" group-title="4K UHD",ANIMAL PLANET 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174640
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL 4K H265" tvg-logo="http://static.bldn.vip/logos/documentario/discovery.png" group-title="4K UHD",DISCOVERY CHANNEL 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174638
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL 4K H265" tvg-logo="http://static.bldn.vip/logos/variedades/comedy.png" group-title="4K UHD",COMEDY CENTRAL 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174641
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H 4K H265" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryheh.png" group-title="4K UHD",DISCOVERY H&H 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174637
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO 4K H265" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryturbo.png" group-title="4K UHD",DISCOVERY TURBO 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174642
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT 4K H265" tvg-logo="http://static.bldn.vip/logos/variedades/gnt.png" group-title="4K UHD",GNT 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174645
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA 4K H265" tvg-logo="http://static.bldn.vip/logos/variedades/viva.png" group-title="4K UHD",VIVA 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174639
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK 4K H265" tvg-logo="http://static.bldn.vip/logos/infantis/cartoonnetwork.png" group-title="4K UHD",CARTOON NETWORK 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174643
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL 4K H265" tvg-logo="http://static.bldn.vip/logos/noticias/cnnbrasil.png" group-title="4K UHD",CNN BRASIL 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174632
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS 4K H265" tvg-logo="http://static.bldn.vip/logos/noticias/globonews.png" group-title="4K UHD",GLOBO NEWS 4K H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/174631
 #EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="http://static.bldn.vip/logos/globo/globo-sp.png" group-title="REDE GLOBO",GLOBO SP FHD H265
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/61127
 #EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="GLOBO SP FHD" tvg-logo="http://static.bldn.vip/logos/globo/globo-sp.png" group-title="REDE GLOBO",GLOBO SP FHD
@@ -1131,14 +1203,26 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/198619
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/173793
 #EXTINF:-1 tvg-id="BR Conmebol TV 4" tvg-name="CONMEBOL TV 4 HD ²" tvg-logo="https://static.b2pteam.com/logos/esportesppv/conmebol.png" group-title="ESPORTES (PPV)",CONMEBOL TV 4 HD ²
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/198620
+#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 TV HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/f1tv.png" group-title="ESPORTES (PPV)",FORMULA 1 TV HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/195359
 #EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/dazn.png" group-title="ESPORTES (PPV)",DAZN HD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/164753
 #EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 2 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/dazn.png" group-title="ESPORTES (PPV)",DAZN 2 HD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/164754
 #EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 3 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/dazn.png" group-title="ESPORTES (PPV)",DAZN 3 HD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/164755
-#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 TV HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/f1tv.png" group-title="ESPORTES (PPV)",FORMULA 1 TV HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/195359
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/hbomax.png" group-title="ESPORTES (PPV)",HBO MAX HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214664
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/hbomax.png" group-title="ESPORTES (PPV)",HBO MAX 2 HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214665
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/hbomax.png" group-title="ESPORTES (PPV)",HBO MAX 3 HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214666
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/star.png" group-title="ESPORTES (PPV)",STAR+ HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214656
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/star.png" group-title="ESPORTES (PPV)",STAR+ 2 HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214660
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/star.png" group-title="ESPORTES (PPV)",STAR+ 3 HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/214659
 #EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="ESTADIO TNT SPORTS HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/tntsports.png" group-title="ESPORTES (PPV)",ESTADIO TNT SPORTS HD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/53165
 #EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="ESTADIO TNT SPORTS 2 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/tntsports.png" group-title="ESPORTES (PPV)",ESTADIO TNT SPORTS 2 HD
@@ -1159,30 +1243,6 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/195153
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/194961
 #EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS 5 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/tvnsports.png" group-title="ESPORTES (PPV)",TV NSPORTS 5 HD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/194962
-#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="NORDESTE FC HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/nordestefc.png" group-title="ESPORTES (PPV)",NORDESTE FC HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/194560
-#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="NORDESTE FC 2 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/nordestefc.png" group-title="ESPORTES (PPV)",NORDESTE FC 2 HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/194561
-#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="NORDESTE FC 3 HD" tvg-logo="http://static.bldn.vip/logos/esportesppv/nordestefc.png" group-title="ESPORTES (PPV)",NORDESTE FC 3 HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/194562
-#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="NORDESTE FC 4 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/nordestefc.png" group-title="ESPORTES (PPV)",NORDESTE FC 4 HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/205845
-#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="NORDESTE FC 5 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/nordestefc.png" group-title="ESPORTES (PPV)",NORDESTE FC 5 HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/205844
-#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="CAMPEONATO CARIOCA HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/carioca.png" group-title="ESPORTES (PPV)",CAMPEONATO CARIOCA HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/194957
-#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="CAMPEONATO CARIOCA 2 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/carioca.png" group-title="ESPORTES (PPV)",CAMPEONATO CARIOCA 2 HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/194958
-#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="CAMPEONATO CARIOCA 3 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/carioca.png" group-title="ESPORTES (PPV)",CAMPEONATO CARIOCA 3 HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/194959
-#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="CAMPEONATO SERGIPANO HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/sergipano.png" group-title="ESPORTES (PPV)",CAMPEONATO SERGIPANO HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/196332
-#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="CAMPEONATO SERGIPANO 2 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/sergipano.png" group-title="ESPORTES (PPV)",CAMPEONATO SERGIPANO 2 HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/198995
-#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="CAMPEONATO SERGIPANO 3 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/sergipano.png" group-title="ESPORTES (PPV)",CAMPEONATO SERGIPANO 3 HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/198996
-#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="CAMPEONATO PARAIBANO HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/paraibano.png" group-title="ESPORTES (PPV)",CAMPEONATO PARAIBANO HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/199525
 #EXTINF:-1 tvg-id="ElevenSports.br" tvg-name="ELEVEN SPORTS HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/eleven.png" group-title="ESPORTES (PPV)",ELEVEN SPORTS HD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/195858
 #EXTINF:-1 tvg-id="ElevenSports.br" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/eleven.png" group-title="ESPORTES (PPV)",ELEVEN SPORTS 2 HD
@@ -1203,16 +1263,6 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/205698
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/205700
 #EXTINF:-1 tvg-id="ElevenSports.br" tvg-name="ELEVEN SPORTS 10 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/eleven.png" group-title="ESPORTES (PPV)",ELEVEN SPORTS 10 HD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/205699
-#EXTINF:-1 tvg-id="Youtube.br" tvg-name="YOUTUBE  HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/youtube.png" group-title="ESPORTES (PPV)",YOUTUBE  HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/194558
-#EXTINF:-1 tvg-id="Youtube.br" tvg-name="YOUTUBE  2 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/youtube.png" group-title="ESPORTES (PPV)",YOUTUBE  2 HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/194559
-#EXTINF:-1 tvg-id="Youtube.br" tvg-name="YOUTUBE  3 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/youtube.png" group-title="ESPORTES (PPV)",YOUTUBE  3 HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/194966
-#EXTINF:-1 tvg-id="Youtube.br" tvg-name="YOUTUBE 4 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/youtube.png" group-title="ESPORTES (PPV)",YOUTUBE 4 HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/195148
-#EXTINF:-1 tvg-id="Youtube.br" tvg-name="YOUTUBE 5 HD" tvg-logo="https://static.b2pteam.com/logos/esportesppv/youtube.png" group-title="ESPORTES (PPV)",YOUTUBE 5 HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/201778
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD H265" tvg-logo="http://static.bldn.vip/logos/telecine/tcaction.png" group-title="TELECINE",TELECINE ACTION FHD H265
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/59815
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD H265 ²" tvg-logo="http://static.bldn.vip/logos/telecine/tcaction.png" group-title="TELECINE",TELECINE ACTION FHD H265 ²
@@ -1437,6 +1487,56 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/21174
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/5077
 #EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME SD ²" tvg-logo="http://static.bldn.vip/logos/hbo/hboxtreme.png" group-title="HBO",HBO XTREME SD ²
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/21173
+#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL FHD H265" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="STAR",STAR CHANNEL FHD H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/59857
+#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL FHD H265 ²" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="STAR",STAR CHANNEL FHD H265 ²
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/30960
+#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL FHD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="STAR",STAR CHANNEL FHD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/5106
+#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="STAR",STAR CHANNEL HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/5088
+#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL HD ²" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="STAR",STAR CHANNEL HD ²
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/21181
+#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL SD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="STAR",STAR CHANNEL SD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/5089
+#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL SD ²" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="STAR",STAR CHANNEL SD ²
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/21180
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 FHD H265" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits.png" group-title="STAR",STAR HITS 1 FHD H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/59855
+#EXTINF:-1 tvg-id="star.hits.br" tvg-name="STAR HITS 1 FHD H265 ²" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits.png" group-title="STAR",STAR HITS 1 FHD H265 ²
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/52194
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 FHD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits.png" group-title="STAR",STAR HITS 1 FHD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/22637
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits.png" group-title="STAR",STAR HITS 1 HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/5084
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 HD ²" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits.png" group-title="STAR",STAR HITS 1 HD ²
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/25575
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 SD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits.png" group-title="STAR",STAR HITS 1 SD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/5085
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD H265" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits2.png" group-title="STAR",STAR HITS 2 FHD H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/59854
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD H265 ²" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits2.png" group-title="STAR",STAR HITS 2 FHD H265 ²
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/52210
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits2.png" group-title="STAR",STAR HITS 2 FHD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/5103
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits2.png" group-title="STAR",STAR HITS 2 HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/5082
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD ²" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits2.png" group-title="STAR",STAR HITS 2 HD ²
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/25577
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits2.png" group-title="STAR",STAR HITS 2 SD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/5083
+#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE FHD H265" tvg-logo="http://static.bldn.vip/logos/variedades/starlife.png" group-title="STAR",STAR LIFE FHD H265
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/59856
+#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE FHD" tvg-logo="http://static.bldn.vip/logos/variedades/starlife.png" group-title="STAR",STAR LIFE FHD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/22638
+#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE HD" tvg-logo="http://static.bldn.vip/logos/variedades/starlife.png" group-title="STAR",STAR LIFE HD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/5086
+#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE HD ²" tvg-logo="http://static.bldn.vip/logos/variedades/starlife.png" group-title="STAR",STAR LIFE HD ²
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/21287
+#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE SD" tvg-logo="http://static.bldn.vip/logos/variedades/starlife.png" group-title="STAR",STAR LIFE SD
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/5087
+#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE SD ²" tvg-logo="http://static.bldn.vip/logos/variedades/starlife.png" group-title="STAR",STAR LIFE SD ²
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/21286
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD H265" tvg-logo="http://static.bldn.vip/logos/filmeseseries/a_e.png" group-title="FILMES E SERIES",A&E FHD H265
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/61147
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD H265 ²" tvg-logo="http://static.bldn.vip/logos/filmeseseries/a_e.png" group-title="FILMES E SERIES",A&E FHD H265 ²
@@ -1613,56 +1713,6 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/21163
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/5066
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD ²" tvg-logo="http://static.bldn.vip/logos/filmeseseries/space.png" group-title="FILMES E SERIES",SPACE SD ²
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/21162
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL FHD H265" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="FILMES E SERIES",STAR CHANNEL FHD H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/59857
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL FHD H265 ²" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="FILMES E SERIES",STAR CHANNEL FHD H265 ²
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/30960
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL FHD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="FILMES E SERIES",STAR CHANNEL FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/5106
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="FILMES E SERIES",STAR CHANNEL HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/5088
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL HD ²" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="FILMES E SERIES",STAR CHANNEL HD ²
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/21181
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL SD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="FILMES E SERIES",STAR CHANNEL SD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/5089
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL SD ²" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="FILMES E SERIES",STAR CHANNEL SD ²
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/21180
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 FHD H265" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits.png" group-title="FILMES E SERIES",STAR HITS 1 FHD H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/59855
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 FHD H265 ²" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits.png" group-title="FILMES E SERIES",STAR HITS 1 FHD H265 ²
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/52194
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 FHD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits.png" group-title="FILMES E SERIES",STAR HITS 1 FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/22637
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits.png" group-title="FILMES E SERIES",STAR HITS 1 HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/5084
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 HD ²" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits.png" group-title="FILMES E SERIES",STAR HITS 1 HD ²
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/25575
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 SD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits.png" group-title="FILMES E SERIES",STAR HITS 1 SD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/5085
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD H265" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits2.png" group-title="FILMES E SERIES",STAR HITS 2 FHD H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/59854
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD H265 ²" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits2.png" group-title="FILMES E SERIES",STAR HITS 2 FHD H265 ²
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/52210
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits2.png" group-title="FILMES E SERIES",STAR HITS 2 FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/5103
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits2.png" group-title="FILMES E SERIES",STAR HITS 2 HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/5082
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD ²" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits2.png" group-title="FILMES E SERIES",STAR HITS 2 HD ²
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/25577
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starhits2.png" group-title="FILMES E SERIES",STAR HITS 2 SD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/5083
-#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE FHD H265" tvg-logo="http://static.bldn.vip/logos/variedades/starlife.png" group-title="FILMES E SERIES",STAR LIFE FHD H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/59856
-#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE FHD" tvg-logo="http://static.bldn.vip/logos/variedades/starlife.png" group-title="FILMES E SERIES",STAR LIFE FHD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/22638
-#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE HD" tvg-logo="http://static.bldn.vip/logos/variedades/starlife.png" group-title="FILMES E SERIES",STAR LIFE HD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/5086
-#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE HD ²" tvg-logo="http://static.bldn.vip/logos/variedades/starlife.png" group-title="FILMES E SERIES",STAR LIFE HD ²
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/21287
-#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE SD" tvg-logo="http://static.bldn.vip/logos/variedades/starlife.png" group-title="FILMES E SERIES",STAR LIFE SD
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/5087
-#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE SD ²" tvg-logo="http://static.bldn.vip/logos/variedades/starlife.png" group-title="FILMES E SERIES",STAR LIFE SD ²
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/21286
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="http://static.bldn.vip/logos/filmeseseries/studio.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL FHD H265
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/59818
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD H265 ²" tvg-logo="http://static.bldn.vip/logos/filmeseseries/studio.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL FHD H265 ²
@@ -2357,6 +2407,8 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/59871
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/52201
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS FHD" tvg-logo="http://static.bldn.vip/logos/noticias/bandnews.png" group-title="NOTICIAS",BAND NEWS FHD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/5188
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS FHD ²" tvg-logo="http://static.bldn.vip/logos/noticias/bandnews.png" group-title="NOTICIAS",BAND NEWS FHD ²
+http://cdnrede.com:80/murilopinheiro96/pinheirom02/205687
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="http://static.bldn.vip/logos/noticias/bandnews.png" group-title="NOTICIAS",BAND NEWS HD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/5186
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD ²" tvg-logo="http://static.bldn.vip/logos/noticias/bandnews.png" group-title="NOTICIAS",BAND NEWS HD ²
@@ -2571,54 +2623,6 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/214122
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/214123
 #EXTINF:-1 tvg-id="" tvg-name="SHOPTIME" tvg-logo="" group-title="VARIEDADES",SHOPTIME
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/214124
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET 4K+ H265" tvg-logo="http://static.bldn.vip/logos/documentario/animalplanet.png" group-title="4K ULTRA HD",ANIMAL PLANET 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174640
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN 4K+ H265" tvg-logo="http://static.bldn.vip/logos/filmeseseries/axn.png" group-title="4K ULTRA HD",AXN 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174627
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP 4K+ H265" tvg-logo="http://static.bldn.vip/logos/abertos/band.png" group-title="4K ULTRA HD",BAND SP 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174630
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK 4K+ H265" tvg-logo="http://static.bldn.vip/logos/infantis/cartoonnetwork.png" group-title="4K ULTRA HD",CARTOON NETWORK 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174643
-#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL 4K+ H265" tvg-logo="http://static.bldn.vip/logos/noticias/cnnbrasil.png" group-title="4K ULTRA HD",CNN BRASIL 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174632
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL 4K+ H265" tvg-logo="http://static.bldn.vip/logos/variedades/comedy.png" group-title="4K ULTRA HD",COMEDY CENTRAL 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174641
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL 4K+ H265" tvg-logo="http://static.bldn.vip/logos/documentario/discovery.png" group-title="4K ULTRA HD",DISCOVERY CHANNEL 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174638
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H 4K+ H265" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryheh.png" group-title="4K ULTRA HD",DISCOVERY H&H 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174637
-#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO 4K+ H265" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryturbo.png" group-title="4K ULTRA HD",DISCOVERY TURBO 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174642
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN BRASIL 4K+ H265" tvg-logo="http://static.bldn.vip/logos/esportes/espnbrasil.png" group-title="4K ULTRA HD",ESPN BRASIL 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174650
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL 4K+ H265" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="4K ULTRA HD",STAR CHANNEL 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174644
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="FOX SPORTS 4K+ H265" tvg-logo="http://static.bldn.vip/logos/esportes/foxsports.png" group-title="4K ULTRA HD",FOX SPORTS 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174636
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS 4K+ H265" tvg-logo="http://static.bldn.vip/logos/noticias/globonews.png" group-title="4K ULTRA HD",GLOBO NEWS 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174631
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP 4K+ H265" tvg-logo="http://static.bldn.vip/logos/globo/globo-sp.png" group-title="4K ULTRA HD",GLOBO SP 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174628
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT 4K+ H265" tvg-logo="http://static.bldn.vip/logos/variedades/gnt.png" group-title="4K ULTRA HD",GNT 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174645
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES 4K+ H265" tvg-logo="http://static.bldn.vip/logos/premiere/premiere.png" group-title="4K ULTRA HD",PREMIERE CLUBES 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174635
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV SP 4K+ H265" tvg-logo="http://static.bldn.vip/logos/record/recordsp.png" group-title="4K ULTRA HD",RECORD TV SP 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174633
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP 4K+ H265" tvg-logo="http://static.bldn.vip/logos/abertos/sbt.png" group-title="4K ULTRA HD",SBT SP 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174629
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 4K+ H265" tvg-logo="http://static.bldn.vip/logos/esportes/sportv.png" group-title="4K ULTRA HD",SPORTV 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174634
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION 4K+ H265" tvg-logo="http://static.bldn.vip/logos/telecine/tcaction.png" group-title="4K ULTRA HD",TELECINE ACTION 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174647
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA 4K+ H265" tvg-logo="http://static.bldn.vip/logos/telecine/tcpipoca.png" group-title="4K ULTRA HD",TELECINE PIPOCA 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174648
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM 4K+ H265" tvg-logo="http://static.bldn.vip/logos/telecine/tcpremium.png" group-title="4K ULTRA HD",TELECINE PREMIUM 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174649
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL 4K+ H265" tvg-logo="http://static.bldn.vip/logos/filmeseseries/universal.png" group-title="4K ULTRA HD",UNIVERSAL CHANNEL 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174646
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA 4K+ H265" tvg-logo="http://static.bldn.vip/logos/variedades/viva.png" group-title="4K ULTRA HD",VIVA 4K+ H265
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/174639
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN (LEG) FHD ²" tvg-logo="http://static.bldn.vip/logos/filmeseseries/axn.png" group-title="CANAIS LEGENDADOS",AXN (LEG) FHD ²
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/177345
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN (LEG) HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/axn.png" group-title="CANAIS LEGENDADOS",AXN (LEG) HD
@@ -3235,8 +3239,6 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/67264
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/67265
 #EXTINF:-1 tvg-id="" tvg-name="24HS: CLIPES ZUMBA HD" tvg-logo="http://static.bldn.vip/logos/clipes24hs/clipeszumba.png" group-title="CLIPES 24HS PREMIUM",24HS: CLIPES ZUMBA HD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/67721
-#EXTINF:-1 tvg-id="" tvg-name="FILMES EM CARTAZ" tvg-logo="" group-title="PROMOCIONAL",FILMES EM CARTAZ
-http://cdnrede.com:80/murilopinheiro96/pinheirom02/213176
 #EXTINF:-1 tvg-id="1.plus.1.pt" tvg-name="PT: AL JAZEERA" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: AL JAZEERA
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/207153
 #EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 KITCHEN" tvg-logo="https://static.b2pteam.com/logos/internacionais/portugal.png" group-title="PORTUGAL",PT: 24 KITCHEN
@@ -5379,5 +5381,5 @@ http://cdnrede.com:80/murilopinheiro96/pinheirom02/210363
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/210364
 #EXTINF:-1 tvg-id="" tvg-name="ACDB: CAM 11 HD" tvg-logo="https://static.b2pteam.com/logos/reality/acasadasbrasileirinhas.png" group-title="XXX: A CASA DAS BRASILEIRINHAS 24H",ACDB: CAM 11 HD
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/210365
-#EXTINF:-1 tvg-id="" tvg-name="SEXPRIVE" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",SEXPRIVE
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXPRIVE" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXPRIVE
 http://cdnrede.com:80/murilopinheiro96/pinheirom02/214004
